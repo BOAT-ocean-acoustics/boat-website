@@ -26,8 +26,8 @@ about:
     - url: '#'
       title: A sample link
       new_window: True
-applicant_info: UW Hackweek 2022 will take place in October 2022 (virtual or in-person
-  TBD). Applications have not yet opened, but should be anticipated in September 2022.
+applicant_info: Applications to the 2025 BOAT workshops are expected to open 
+  in January 2025.
 team:
   !include team/team.yaml
 schedule:
@@ -35,13 +35,13 @@ schedule:
 sponsors:
   description: ''
   organizations:
-  - name: eScience Institute
-    website: ''
-    logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
+  - name: Office of Naval Research (ONR)
+    website: https://www.onr.navy.mil/
+    logo_url: https://upload.wikimedia.org/wikipedia/commons/2/29/Office_of_Naval_Research_Official_Logo.png
 footer:
   social:
   - icon: github
-    link: https://github.com/uwhackweek/
+    link: https://github.com/BOAT-ocean-acoustics/
 _copy_without_render:
 - assets
 _extensions:
