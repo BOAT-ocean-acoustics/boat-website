@@ -21,13 +21,13 @@ about:
     to create a community-supported educational initiative to empower learners 
     to explore ocean acoustics theories and practices 
     and advance the field through collaboration and shared knowledge.
-  learn_more: https://escience.washington.edu/using-data-science/hackweeks
+  # learn_more: https://escience.washington.edu/using-data-science/hackweeks
   links:
     - url: '#'
-      title: March 24-25, Seattle
+      title: 'Seattle: March 24-25, 2025'
       new_window: True
     - url: '#'
-      title: May 17-18, New Orleans
+      title: 'New Orleans: May 17-18, 2025'
       new_window: True
 applicant_info: Applications to the 2025 BOAT workshops are expected to open 
   in January 2025.
