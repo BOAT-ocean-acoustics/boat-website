@@ -5,10 +5,10 @@ apply:
   title: Application coming soon
 banner:
   description: A community-supported education program for ocean acoustics theories and practices.
-  start_date: March 24
-  end_date: March 25
-  year: 2025
-  location: Seattle, WA
+  start_date: ''
+  end_date: ''
+  year: ''
+  location: ''
   links:
   - url: intro.html
     title: Event Jupyter Book
