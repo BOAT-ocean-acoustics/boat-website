@@ -18,8 +18,8 @@ banner:
 event_countdown: "2024-08-07T08:30:00-07:00"
 about:
   description: The BOAT (Bridge to Ocean Acoustics and Technology) program aims
-    to broaden access to ocean acoustics by creating a community-supported educational 
-    initiative to empower learners to explore ocean acoustics theories and practices 
+    to create a community-supported educational initiative to empower learners 
+    to explore ocean acoustics theories and practices 
     and advance the field through collaboration and shared knowledge.
   learn_more: https://escience.washington.edu/using-data-science/hackweeks
   links:
