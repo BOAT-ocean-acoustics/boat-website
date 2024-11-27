@@ -1,0 +1,24 @@
+- title: Valentina Staneva
+  avatar: https://escience.washington.edu/wp-content/uploads/2022/09/Valentina-Staneva.jpg
+  role: Senior Research Scientist
+  organizations:
+    - name: eScience Institute, University of Washington
+
+  bio: Valentina is a research data scientist working at the intersection of oceanography and data 
+science. Her background is in applied math and statistics, and she collaborates with scientists on 
+machine learning and signal processing problems. She regularly teaches workshops on these topics and is devoted to training 
+researchers in best data science practices.
+  expertise:
+    - statistics
+    - signal processing 
+    - Python, git/GitHub
+    - open science 
+
+  social:
+    - icon: github
+      link: https://github.com/valentina-s
+    - icon: linkedin
+      link: https://www.linkedin.com/in/valentina-staneva-964a133/
+  user_groups:
+    - Event Organizer, Tutorial Lead
+
