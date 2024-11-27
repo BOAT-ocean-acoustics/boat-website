@@ -1,0 +1,20 @@
+- title: Caesar Tuguinay
+  avatar: https://uw-echospace.github.io/author/caesar-tuguinay/avatar_hu91f4814411e1234976d159b9f96b7860_33992_270x270_fill_q90_lanczos_center.jpg
+  role: Your title
+  organizations:
+    - name: Your institution
+  bio: A short bio about yourself.
+    You can have multiple lines. Just watch that you have two leading spaces at the beginning.
+  expertise:
+    - skill 1
+    - skill 2
+  social:
+    - icon: github
+      link: Link to your GitHub profile
+    - icon: twitter
+      link: Link to your Twitter profile
+    - icon: linkedin
+      link: Link to your LinkedIn profile
+  user_groups:
+    - The role in the hackweek. Examples: Tutorial Lead, Project Helper
+
