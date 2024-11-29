@@ -4,10 +4,7 @@
   organizations:
     - name: eScience Institute, University of Washington
 
-  bio: Valentina is a research data scientist working at the intersection of oceanography and data 
-science. Her background is in applied math and statistics, and she collaborates with scientists on 
-machine learning and signal processing problems. She regularly teaches workshops on these topics and is devoted to training 
-researchers in best data science practices.
+  bio: Valentina is a research data scientist working at the intersection of oceanography and data science. Her background is in applied math and statistics, and she collaborates with scientists on machine learning and signal processing problems. She regularly teaches workshops on these topics and is devoted to training researchers in best data science practices.
   expertise:
     - statistics
     - signal processing 
