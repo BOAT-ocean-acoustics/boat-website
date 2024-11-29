@@ -2,7 +2,7 @@ timezone: event local time # UTC -7 (Pacific Daylight Time)
 tabs:
 - title: Day 1
   contents:
-  - title: Introductory Session
+  - title: Welcome and introduction
     description: null
     time: 8:30 - 9:30
     leads:
@@ -48,13 +48,14 @@ tabs:
     - All
   - title: Informal social
     description: null
-    time: 17:30 - 
+    time: 17:30 - 19:00
 - title: Day 2
   contents:
   - title: "Recap"
     description: null
     time: 8:30 - 9:00
     leads:
+    - All
   - title: "Theory: acoustic receivers"
     description: null
     time: 9:00 - 9:45
@@ -92,6 +93,10 @@ tabs:
   - title: Hands-on exercises with data from ocean experiments
     description: null
     time: 14:45 - 16:30
+    leads:
+    - All
   - title: Reflections & feedback
     description: null
     time: 16:30 - 17:30
+    leads:
+    - All
