@@ -1,7 +1,6 @@
 timezone: event local time # UTC -7 (Pacific Daylight Time)
 tabs:
 - title: Day 1
-  date: null
   contents:
   - title: Introductory Session
     description: null
@@ -25,79 +24,74 @@ tabs:
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
-  - title: "Primer: spectral analysis"
+  - title: "Primer: sampling and spectral analysis"
     description: null
-    time: 13:00 - 13:45
+    time: 13:00 - 14:15
     leads:
+    - Wu-Jung Lee
+    - Valentina Staneva
+  - title: BREAK
+    description: null
+    time: 14:00 - 14:30
+  - title: "Primer: probability distributions"
+    description: null
+    time: 14:00 - 15:00
+    leads:
+    - Valentina Staneva
+  - title: BREAK
+    description: null
+    time: 15:00 - 15:15
+  - title: Hands-on exercises with data from ocean experiments
+    description: null
+    time: 15:15 - 17:30
+    leads:
+    - All
+  - title: Informal social
+    description: null
+    time: 17:30 - 
+- title: Day 2
+  contents:
+  - title: "Recap"
+    description: null
+    time: 8:30 - 9:00
+    leads:
+  - title: "Theory: acoustic receivers"
+    description: null
+    time: 9:00 - 9:45
+    leads:
+    - Todd Hefner
+  - title: BREAK
+    description: null
+    time: 9:45 - 10:00
+  - title: "Theory: acoustic scattering"
+    description: null
+    time: 10:00 - 11:30
+    leads:
+    - Todd Hefner
+    - Wu-Jung Lee
+  - title: LUNCH
+    description: null
+    time: 11:30 - 12:30
+  - title: "Primer: instrument spec sheets"
+    description: null
+    time: 12:30 - 13:30
+    leads:
+    - Todd Hefner
     - Wu-Jung Lee
   - title: BREAK
     description: null
-    time: 13:45 - 14:00
-  - title: "Primer: sampling and quantization"
+    time: 13:30 - 13:45
+  - title: "Primer: statistical tests"
     description: null
-    time: 14:00 - 14:45
+    time: 13:45 - 14:30
     leads:
     - Valentina Staneva
   - title: BREAK
     description: null
-    time: 14:45 - 15:00
-  - title: "Primer: distributions, detection, and statistical tests"
+    time: 14:30 - 14:45
+  - title: Hands-on exercises with data from ocean experiments
     description: null
-    time: 15:00 - 16:00
-    leads:
-    - Valentina Staneva
-  - title: BREAK
+    time: 14:45 - 16:30
+  - title: Reflections & feedback
     description: null
-    time: 15:00 - 15:15
-  - title: "Hands-on exercises with data from ocean experiments"
-    description: null
-    time: 16:00 - 17:30
-    leads:
-    - All
-  - title: BREAK
-    description: null
-    time: 15:00 - 15:15
-  # - title: Best Practices for Collaborative Development
-  #   description: null
-  #   time: 10:30 - 11:00
-  #   leads:
-  #   - Naomi Alterman
-  # - title: ICESat-2 Mission Overview and Data
-  #   description: Summary of ICESat-2 datasets, algorithms and science applications.
-  #   time: 11:00 - 12:00
-  #   leads:
-  #   - Ben Smith
-  # - title: LUNCH
-  #   description: null
-  #   time: 12:00 - 13:00
-  # - title: OPEN PROJECT WORK
-  #   description: null
-  #   time: 13:00 - 17:00
-- title: Day 2
-  date: null
-  contents:
-  - title: Cloud data access and data formats
-    description: Approaches for accessing and subsetting ICESat-2 data in a cloud
-      environment.
-    time: 8:30 - 10:00
-    leads:
-    - Amy Steiker
-  - title: BREAK
-    description: null
-    time: 10:00 - 10:30
-  - title: Open source development / Object Oriented Programming
-    description: Best practices for collaborative coding and object oriented programming.
-    time: 10:30 - 11:30
-    leads:
-    - Romina Piunno
-  - title: Group STAND-UP
-    description: Demonstration of a daily stand-up as part of your project collaboration.
-    time: 11:30 - 12:00
-    leads:
-    - Anthony Arendt
-  - title: LUNCH
-    description: null
-    time: 12:00 - 13:00
-  - title: OPEN PROJECT WORK
-    description: null
-    time: 13:00 - 17:00
+    time: 16:30 - 17:30
