@@ -1,14 +1,14 @@
 repo_directory: html
-name: UW Hackweek
+name: Bridge to Ocean Acoustics & Technology
 apply:
   url: '#'
   title: Application coming soon
 banner:
-  description: An awesome learning event.
-  start_date: XX Month
-  end_date: XX Month
-  year: 2022
-  location: Seattle, WA
+  description: A community-supported education program for ocean acoustics theories and practices.
+  start_date: ''
+  end_date: ''
+  year: ''
+  location: ''
   links:
   - url: intro.html
     title: Event Jupyter Book
@@ -17,16 +17,20 @@ banner:
 # The opening session of the event with UTC offset
 event_countdown: "2024-08-07T08:30:00-07:00"
 about:
-  description: Hackweeks are participant-driven events that strive to create
-    welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science
-  learn_more: https://escience.washington.edu/using-data-science/hackweeks
+  description: The BOAT (Bridge to Ocean Acoustics and Technology) program aims
+    to create a community-supported educational initiative to empower learners 
+    to explore ocean acoustics theories and practices 
+    and advance the field through collaboration and shared knowledge.
+  # learn_more: https://escience.washington.edu/using-data-science/hackweeks
   links:
     - url: '#'
-      title: A sample link
+      title: 'Seattle: March 24-25, 2025'
       new_window: True
-applicant_info: UW Hackweek 2022 will take place in October 2022 (virtual or in-person
-  TBD). Applications have not yet opened, but should be anticipated in September 2022.
+    - url: '#'
+      title: 'New Orleans: May 17-18, 2025'
+      new_window: True
+applicant_info: Applications to the 2025 BOAT workshops are expected to open 
+  in January 2025.
 team:
   !include team/team.yaml
 schedule:
@@ -34,13 +38,13 @@ schedule:
 sponsors:
   description: ''
   organizations:
-  - name: eScience Institute
-    website: ''
-    logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
+  - name: Office of Naval Research (ONR)
+    website: https://www.onr.navy.mil/
+    logo_url: https://upload.wikimedia.org/wikipedia/commons/2/29/Office_of_Naval_Research_Official_Logo.png
 footer:
   social:
   - icon: github
-    link: https://github.com/uwhackweek/
+    link: https://github.com/BOAT-ocean-acoustics/
 _copy_without_render:
 - assets
 _extensions:

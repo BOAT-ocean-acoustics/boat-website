@@ -38,7 +38,7 @@
                 <div class="site-logo">
                     <a class="scrollto" href="#hero-block">
                         <span class="logo-icon-text">
-                            UW eScience Hackweek
+                            BOAT program
                         </span>
                     </a>
                 </div>
@@ -107,8 +107,10 @@
     <div class="container">
         <div class="hero-text-block">
             <h1 class="hero-heading mb-2">
-                {{ cookiecutter.name }} {{ cookiecutter.banner.year }}
+                {{ cookiecutter.name }} 
+                <!-- {{ cookiecutter.name }} {{ cookiecutter.banner.year }} -->
             </h1>
+            <!-- {%- if 'start_date' in cookiecutter.banner %}
             <div class="hero-meta mb-3">
                 <i class="far fa-calendar-alt me-2"></i>
                 {{ cookiecutter.banner.start_date }} - {{
@@ -116,6 +118,7 @@
                 <i class="fas fa-map-marker-alt mx-2"></i>
                 {{ cookiecutter.banner.location }}
             </div>
+            {%- endif %} -->
             <div class="hero-intro mb-4">{{ cookiecutter.banner.description
                 }}
             </div>
@@ -142,11 +145,13 @@
 <section id="about-section" class="about-section section theme-bg-light">
     <div class="container">
         <h3 class="section-heading text-center mb-3">
-            About {{ cookiecutter.name }}
+            About BOAT
+            <!-- About {{ cookiecutter.name }} -->
         </h3>
         <div class="section-intro single-col-max mx-auto mb-3">
             {{ cookiecutter.about.description }}
         </div>
+        {%- if 'learn_more' in cookiecutter.about %}
         <div class="about-cta text-center mb-4">
             <a class="btn btn-secondary btn-lg"
                href="{{ cookiecutter.about.learn_more }}"
@@ -155,11 +160,12 @@
                 <i class="fas fa-external-link-alt"></i>
             </a>
         </div>
+        {%- endif %}
 
         {%- if 'links' in cookiecutter.about %}
             <div class="hero-cta text-center mb-4">
                 <h4 class="mb-3 text-center">
-                    Past Events:
+                    Upcoming Events:
                 </h4>
                 {%- for link in cookiecutter.about.links %}
                     <a class="btn btn-primary btn-lg mb-3 mx-2"
