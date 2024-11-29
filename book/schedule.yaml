@@ -7,43 +7,46 @@ tabs:
     time: 8:30 - 9:30
     leads:
     - Wu-Jung Lee
-  - title: "Theory: conceptual framework"
+  - title: "Theory: acoustic sources"
     description: null
-    time: 9:30 - 10:00
+    time: 9:30 - 10:15
     leads:
-    - Wu-Jung Lee
     - Todd Hefner
   - title: BREAK
     description: null
-    time: 10:00 - 10:30
-  - title: "Theory: acoustic sources and propagation"
+    time: 10:15 - 10:30
+  - title: "Theory: acoustic propagation"
     description: null
-    time: 10:30 - 12:00
+    time: 10:30 - 11:15
     leads:
     - Todd Hefner
+  - title: "Primer: spectral analysis"
+    description: null
+    time: 11:15 - 12:00
+    leads:
+    - Wu-Jung Lee
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
-  - title: "Primer: sampling and spectral analysis"
+  - title: "Primer: sampling and quantization"
     description: null
-    time: 13:00 - 14:15
+    time: 13:00 - 13:45
     leads:
-    - Wu-Jung Lee
     - Valentina Staneva
   - title: BREAK
     description: null
-    time: 14:00 - 14:30
+    time: 13:45 - 14:00
   - title: "Primer: probability distributions"
     description: null
-    time: 14:00 - 15:00
+    time: 14:00 - 14:45
     leads:
     - Valentina Staneva
   - title: BREAK
     description: null
-    time: 15:00 - 15:15
+    time: 14:45 - 15:00
   - title: Hands-on exercises with data from ocean experiments
     description: null
-    time: 15:15 - 17:30
+    time: 15:00 - 17:30
     leads:
     - All
   - title: Informal social
@@ -51,7 +54,7 @@ tabs:
     time: 17:30 - 19:00
 - title: Day 2
   contents:
-  - title: "Recap"
+  - title: Day 1 recap
     description: null
     time: 8:30 - 9:00
     leads:
@@ -66,37 +69,38 @@ tabs:
     time: 9:45 - 10:00
   - title: "Theory: acoustic scattering"
     description: null
-    time: 10:00 - 11:30
+    time: 10:00 - 10:45
     leads:
-    - Todd Hefner
-    - Wu-Jung Lee
-  - title: LUNCH
-    description: null
-    time: 11:30 - 12:30
-  - title: "Primer: instrument spec sheets"
-    description: null
-    time: 12:30 - 13:30
-    leads:
-    - Todd Hefner
     - Wu-Jung Lee
   - title: BREAK
     description: null
-    time: 13:30 - 13:45
+    time: 10:45 - 11:00
+  - title: "Primer: instrument spec sheets"
+    description: null
+    time: 11:00 - 11:45
+    leads:
+    - Todd Hefner
+  - title: LUNCH
+    description: null
+    time: 11:45 - 12:45
   - title: "Primer: statistical tests"
     description: null
-    time: 13:45 - 14:30
+    time: 12:45 - 13:30
     leads:
     - Valentina Staneva
   - title: BREAK
     description: null
-    time: 14:30 - 14:45
+    time: 13:30 - 13:45
   - title: Hands-on exercises with data from ocean experiments
     description: null
-    time: 14:45 - 16:30
+    time: 13:45 - 15:45
     leads:
     - All
+  - title: BREAK
+    description: null
+    time: 15:45 - 16:00
   - title: Reflections & feedback
     description: null
-    time: 16:30 - 17:30
+    time: 16:00 - 17:00
     leads:
     - All
