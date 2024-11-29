@@ -240,10 +240,8 @@
                    role="tab"
                    aria-controls="schedule-tab-{{ loop.index }}-content"
                    aria-selected="{{ link_state }}"
-                   data-schedule-day="{{ tab['date'] }}"
                 >
                     <span class="heading">{{ tab['title'] }}</span>
-                    <span class="meta">({{ tab['date'] }})</span>
                 </a>
             </li>
             {% endfor %}
