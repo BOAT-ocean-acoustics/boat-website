@@ -75,7 +75,7 @@ tabs:
   - title: BREAK
     description: null
     time: 10:45 - 11:00
-  - title: "Primer: instrument spec sheets"
+  - title: "Primer: how to read instrument spec sheets"
     description: null
     time: 11:00 - 11:45
     leads:
@@ -83,7 +83,7 @@ tabs:
   - title: LUNCH
     description: null
     time: 11:45 - 12:45
-  - title: "Primer: statistical tests"
+  - title: "Primer: statistical tests and estimation"
     description: null
     time: 12:45 - 13:30
     leads:
