@@ -1,4 +1,4 @@
-# Seattle Workshop Logistics
+# Logistics - Seattle
 
 ## Wireless
 

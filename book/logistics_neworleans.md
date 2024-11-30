@@ -1,4 +1,4 @@
-# New Orleans Workshop Logistics
+# Logistics - New Orleans
 
 ## Wireless
 
