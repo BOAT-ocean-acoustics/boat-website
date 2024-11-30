@@ -5,11 +5,13 @@ format: jb-book
 parts:
 - caption: Details
   chapters:
-    - file: logistics
+    - file: philosophy
+    - file: logistics_seattle
+    - file: logistics_neworleans
     - title: Schedule
-      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=schedule
+      url: https://boat-ocean-acoustics.github.io/boat-website/index.html?jump_to=schedule
     - title: Team
-      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=team
+      url: https://boat-ocean-acoustics.github.io/boat-website/index.html?jump_to=team
     - file: CoC
 - caption: Preparation
   chapters:
@@ -21,12 +23,11 @@ parts:
     - file: tutorials/index
       sections:
         - file: tutorials/example/tutorial-notebook
-- caption: Projects
-  chapters:
-    - file: projects/index
+# - caption: Projects
+#   chapters:
+#     - file: projects/index
 - caption: Reference
   chapters:
     - file: reference/glossary
     - file: reference/bibliography
     - file: reference/questions
-

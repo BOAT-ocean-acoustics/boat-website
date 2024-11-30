@@ -10,17 +10,17 @@ parse:
   # https://jupyterbook.org/content/content-blocks.html?highlight=myst%20substitution#define-substitutions-for-your-whole-book
   # https://jupyterbook.org/content/content-blocks.html#using-substitutions-in-links
   myst_substitutions:
-    hackweek: "uwhackweek"
-    dates: "October ? to ?, 2021"
-    github_org_url: "https://github.com/uwhackweek"
-    book_repo: "jupyterbook-template"
-    website_url: "https://book-template.hackweek.io"
-    jupyterhub_url: "https://INSERT_JUPYTERHUB_URL"
-    slack_workspace_url: "https://INSERT_SLACK_URL"
-    contact_email: "INSERT_CONTACT_EMAIL@UW.COM"
-    dataset: "INSERT_DATA_SET_NAME"
-    anon_reporting_url: "https://INSERT_FORM_LINK"
-    project_spreadsheet_url: "https://INSERT_GOOGLE_SHEET"
+    hackweek: "BOAT"
+    # dates: "October ? to ?, 2021"
+    github_org_url: "https://github.com/BOAT-ocean-acoustics"
+    book_repo: "boat-website"
+    website_url: "https://BOAT-ocean-acoustics.github.io/boat-website"  # TODO: CHANGE
+    jupyterhub_url: "https://INSERT_JUPYTERHUB_URL"  # TODO: CHANGE
+    slack_workspace_url: "https://INSERT_SLACK_URL"  # TODO: CHANGE
+    contact_email: "INSERT_CONTACT_EMAIL@UW.COM"  # TODO: CHANGE
+    # dataset: "INSERT_DATA_SET_NAME"
+    anon_reporting_url: "https://INSERT_FORM_LINK"  # TODO: CHANGE
+    # project_spreadsheet_url: "https://INSERT_GOOGLE_SHEET"
   myst_enable_extensions:
     # Defaults
     - dollarmath
