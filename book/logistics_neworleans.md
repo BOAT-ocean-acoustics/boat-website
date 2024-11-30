@@ -1,4 +1,4 @@
-# Event Logistics
+# New Orleans Workshop Logistics
 
 ## Wireless
 

@@ -1,4 +1,4 @@
-# Event Logistics
+# Seattle Workshop Logistics
 
 ## Wireless
 
