@@ -5,7 +5,6 @@ format: jb-book
 parts:
 - caption: Details
   chapters:
-    - file: philosophy
     - file: workshop_seattle
     - file: workshop_neworleans
     - title: Schedule

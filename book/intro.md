@@ -9,9 +9,13 @@
 
 💡 Learn more about hackweeks hosted by the [University of Washington eScience Institute](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html), or check out our publication describing the hackweek educational model {cite:p}`Huppenkothen2018`.
 
-```{admonition} Quick links for the event
+
+## The BOAT Philosophy
+
+
+```{admonition} Quick links
 :class: seealso
-* JupyterHub: {{ jupyterhub_url }}
+* [Seattle workshop](./workshop_seattle) (March 24-25, 2025)
+* [New Orleands workshop](./workshop_neworleans) (May 17-18, 2025)
 * GitHub organization: {{ github_org_url}}
-* Projects Spreadsheet: {{ project_spreadsheet_url }}
 ```
