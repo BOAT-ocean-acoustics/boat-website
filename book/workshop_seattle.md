@@ -1,8 +1,10 @@
 # Seattle Workshop
 
+## Date / Location
+University of Washington, Seattle
 
 ## Target audience
-The Seattle workshop for...
+The Seattle workshop is ...
 
 
 ## Application
@@ -12,19 +14,10 @@ Application link
 
 ## Logistics
 
-### Location
-
 * The workshop will take place in person in the eSciene Institute on the 6th floor of the UW Physics/Astronomy tower (see map below).
 * Door is open at 8:00 am each morning, and we will start the morning sessions at 8:30 am sharp.
 * Due to space limitations, only registered BOAT participants can attend the workshop.
-
-### Food / coffee
-
 * Coffee, lunch and, snacks will be provided each day at the BOAT workshop.
-* Please indicate any food allergies when you register.
-
-### Travel
-
 * The [Link light rail](https://www.soundtransit.org/ride-with-us/stations/link-light-rail-stations) is an easy, great way to get to UW campus. The "University of Washington" and "U District" stations on 1-Line are both within walking distance to the workshop.
 
 ### Communication
