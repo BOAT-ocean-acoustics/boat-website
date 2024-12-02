@@ -1,12 +1,23 @@
-# Event Logistics
+# New Orleans Workshop
 
-## Wireless
+## Date / Location
+Loyola University, New Orleans
 
-* WiFi: University of Washington
-* UW NetID: TBD
-* Password: TBD
+## Target audience
+The New Orleans workshop is ...
 
-## Location
+
+## Application
+Application link
+
+
+
+
+
+
+## Logistics
+
+### General
 
 * Tutorials and courses will occur in the Maple Hall Great Room.
 * Doors open at 8:30 am each morning (Monday-Friday). We will start the morning
@@ -16,7 +27,7 @@
 * Participants are expected to attend all scheduled activities. Contact
   {{ contact_email }} if any circumstances prevent you from attending.
 
-## Dorms
+### Dorms
 
 * Dorms are all single/double rooms and each contain a private bathroom.
 * Participants who opt to will be staying at Willow Hall. Please Check in after
@@ -32,7 +43,7 @@
   number of restaurants, late-night activities and retail establishments.
 * The dorms have coin-operated laundry facilities.
 
-## Meals
+### Meals
 
 * Breakfast and lunch will be provided each day through the meal cards that will
   be given to you when you check in to the dorms.
@@ -45,7 +56,7 @@
   you check in at the welcome table on the first day at the Maple Hall Great
   Room.
 
-## Travel
+### Travel
 
 * Seattle-Tacoma International Airport offers a range of connections to the
   University of Washington Campus.
