@@ -6,8 +6,8 @@ parts:
 - caption: Details
   chapters:
     - file: philosophy
-    - file: logistics_seattle
-    - file: logistics_neworleans
+    - file: workshop_seattle
+    - file: workshop_neworleans
     - title: Schedule
       url: https://boat-ocean-acoustics.github.io/boat-website/index.html?jump_to=schedule
     - title: Team
