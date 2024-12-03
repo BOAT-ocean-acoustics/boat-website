@@ -1,29 +1,20 @@
 # Seattle Workshop
 
-## Quick facts
-
-### When
-March 24-25, 2025
-
-### Where
-University of Washington, Seattle
-
-### What
-The BOAT Seattle workshop aims to engage students in the Pacific Northweat region for two days of learning and exploration around ocean acoustics theory and practice 
-
-### Who
+## Qucik facts
+- **When**: March 24-25, 2025
+- **Where**: University of Washington, Seattle
+- **What**: The BOAT Seattle workshop aims to engage students in the Pacific Northweat region for two days of learning and exploration around ocean acoustics theory and practice 
+- **Who**: 
 - Senior undergraduate students
 - Graduate students in the first two years of PhD or masters program
-
-### Why
-The BOAT workshop is for you if you are interested in:
+- **Why**: The BOAT workshop is for you if you are interested in:
 - Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
 - Connectedwith a community of learners / researchers / educators with interests in related areas
 
 
 
 ## Application
-Apply to the BOAT Seattle workshop by filling in this google form: SEATTLE_GOOGLE_FORM
+Apply to the BOAT Seattle workshop by filling out this google form: SEATTLE_GOOGLE_FORM
 
 Got questions? Check out our FAQ, and reach out to us at {{ contact_email }} if you can't find answers there!
 
