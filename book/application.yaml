@@ -1,13 +1,13 @@
 timezone: Pacific Standard Time (PST)
 tabs:
-- title: Day 1
+- title: ""
   contents:
-    - time: January 1, 2025
+    - time: Jan. 1, 2025
       title: Application opens for both workshops
       description: null
-    - time: February 28, 2025
+    - time: Feb. 28, 2025
       title: Application closes for Seattle workshop
       description: null
-    - time: March 31, 2025
+    - time: Mar. 31, 2025
       title: Application closes for New Orleans workshop
       description: null
