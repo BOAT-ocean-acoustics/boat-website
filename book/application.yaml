@@ -1,0 +1,11 @@
+timezone: "Pacific Standard Time (PST)"
+contents:
+  - time: January 1, 2025
+    title: Application opens for both workshops
+    description: null
+  - time: February 28, 2025
+    title: Application closes for Seattle workshop
+    description: null
+  - time: March 31, 2025
+    title: Application closes for New Orleans workshop
+    description: null

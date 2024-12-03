@@ -209,6 +209,47 @@
 </section>
 <!--//about-section-->
 
+
+
+{%- if cookiecutter.application %}
+<section id="application" class="application-section section">
+    <div class="container">
+        <h3 class="section-heading text-center mb-1">Key Dates</h3>
+        <h4 class="text-center mb-5">
+            All times listed below are in {{ cookiecutter.application.timezone }}.
+        </h4>
+        <div class="application-timeline">
+            {%- for content in cookiecutter.application["contents"] %}
+            <div class="item item-talk d-flex align-items-start">
+                <div class="meta text-end pe-4">
+                    <h4 class="time mb-3">
+                        {{ content['time'] }}
+                    </h4>
+                </div>
+                <div class="dot mx-2"></div>
+                <div class="content ps-4">
+                    <h3 class="title mb-3">
+                        {{ content['title'] }}
+                    </h3>
+                    {%- if 'description' in content and content['description'] is not none %}
+                    <div class="desc">
+                        {%- markdown -%}
+                        {{ content['description']|safe }}
+                        {%- endmarkdown -%}
+                    </div>
+                    {%- endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <!--//container-->
+</section>
+<!--//application-section-->
+{% endif %}
+
+
+
 {%- if cookiecutter.schedule %}
 <section id="schedule" class="schedule-section section">
     <div class="container">
