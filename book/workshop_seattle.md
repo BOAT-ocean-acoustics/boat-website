@@ -1,5 +1,7 @@
 # Seattle Workshop
 
+## Quick facts
+
 ### When
 March 24-25, 2025
 
