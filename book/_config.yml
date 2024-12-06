@@ -29,7 +29,7 @@ parse:
     - colon_fence
     # Extras
     - html_image
-  suppress_warnings:
+  myst_suppress_warnings:
     - myst.header
 
 # Force re-execution of notebooks on each build.
