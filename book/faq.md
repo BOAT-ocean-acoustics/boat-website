@@ -1,4 +1,4 @@
-## FAQs
+# FAQs
 
 ### Q: Do I need to know Python in order to participate?
 A: Since the notebooks and exercises are in Python, some basic Python knowledge will be valuable for productive participation in the workshop. If you are not familiar with Python but have experience with another scripting language such as R/MATLAB, and you are willing to complete the introductory [Programming with Python lesson](https://swcarpentry.github.io/python-novice-inflammation/) on your own, indicate this in your application.
