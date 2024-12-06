@@ -30,7 +30,7 @@ parse:
     # Extras
     - html_image
   myst_suppress_warnings:
-    - header
+    - "myst.header"
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
