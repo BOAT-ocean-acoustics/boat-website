@@ -70,6 +70,8 @@ sphinx:
         .py:
             - jupytext.reads
             - fmt: py:percent
+    myst_config_warnings:
+      - myst.header
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
