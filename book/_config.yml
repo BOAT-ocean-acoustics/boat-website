@@ -29,8 +29,7 @@ parse:
     - colon_fence
     # Extras
     - html_image
-  myst_suppress_warnings:
-    - "myst.header"
+  suppress_warnings: ["myst.header"]
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
