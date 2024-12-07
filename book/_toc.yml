@@ -9,6 +9,7 @@ parts:
     - file: workshop_neworleans
     - title: Schedule
       url: https://boat-ocean-acoustics.github.io/boat-website/index.html?jump_to=schedule
+    - file: faq
     - title: Team
       url: https://boat-ocean-acoustics.github.io/boat-website/index.html?jump_to=team
     - file: CoC
