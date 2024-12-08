@@ -1,7 +1,7 @@
 repo_directory: html
 name: Bridge to Ocean Acoustics & Technology
 apply:
-  url: '#'
+  url: https://forms.gle/CAE6CoxsC3ftPnHcA
   title: Application coming soon
 banner:
   description: A community-supported education program for ocean acoustics theories and practices.
@@ -30,7 +30,7 @@ about:
       title: 'New Orleans: May 17-18, 2025'
       new_window: True
 applicant_info: Applications to the 2025 BOAT workshops are expected to open 
-  in January 2025.
+  in January 2025.\n [Sign up](https://forms.gle/CAE6CoxsC3ftPnHcA) to receive a notification when applications open.
 team:
   !include team/team.yaml
 schedule:
