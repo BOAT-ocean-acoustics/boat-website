@@ -216,31 +216,7 @@
     <div class="container">
         <h3 class="section-heading text-center mb-1">Key dates</h3>
         {%- if cookiecutter.application["tabs"] %}
-        <!-- Nav tabs -->
-        <ul class="schedule-nav nav nav-pills nav-fill" id="myTab"
-            role="tablist">
-            {% for tab in cookiecutter.application["tabs"] %}
-            {%- set link_class = '' %}
-            {%- set link_state = 'false' %}
-            {%- if loop.index == 1 %}
-            {%- set link_class = 'active' %}
-            {%- set link_state = 'true' %}
-            {%- endif %}
-            <li class="nav-item me-2">
-                <a class="nav-link {{ link_class }}"
-                   id="schedule-tab-{{ loop.index }}"
-                   data-bs-toggle="tab"
-                   data-bs-target="#schedule-{{ loop.index }}-content"
-                   href="#tab-{{ loop.index }}-content"
-                   role="tab"
-                   aria-controls="schedule-tab-{{ loop.index }}-content"
-                   aria-selected="{{ link_state }}"
-                >
-                    <span class="heading">{{ tab['title'] }}</span>
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
+        
 
         <!-- Tab panes -->
         <div class="schedule-tab-content tab-content">
