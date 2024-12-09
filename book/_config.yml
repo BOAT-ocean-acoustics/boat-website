@@ -14,10 +14,10 @@ parse:
     dates: "October ? to ?, 2021"  # TODO: REMOVE
     github_org_url: "https://github.com/BOAT-ocean-acoustics"
     book_repo: "boat-website"
-    website_url: "https://BOAT-ocean-acoustics.github.io/boat-website"  # TODO: CHANGE
+    website_url: "https://boat-ocean-acoustics.github.io"
     jupyterhub_url: "https://INSERT_JUPYTERHUB_URL"  # TODO: CHANGE
     slack_workspace_url: "https://INSERT_SLACK_URL"  # TODO: CHANGE
-    contact_email: "INSERT_CONTACT_EMAIL@UW.COM"  # TODO: CHANGE
+    contact_email: "boat.ocean.acoustics@gmail.com"
     dataset: "INSERT_DATA_SET_NAME"  # TODO: REMOVE
     anon_reporting_url: "https://INSERT_FORM_LINK"  # TODO: CHANGE
     project_spreadsheet_url: "https://INSERT_GOOGLE_SHEET"  # TODO: REMOVE
