@@ -4,96 +4,105 @@ tabs:
   contents:
   - title: Welcome and introduction
     description: null
-    time: 8:30 - 9:30
+    time: 8:30 - 9:45
     leads:
     - Wu-Jung Lee
-  - title: "Theory: Acoustic sources"
+  - title: "Navigating Jupyter and codespace"
     description: null
-    time: 9:30 - 10:15
-    leads:
-    - Todd Hefner
-  - title: BREAK
-    description: null
-    time: 10:15 - 10:30
-  - title: "Theory: Acoustic propagation"
-    description: null
-    time: 10:30 - 11:15
-    leads:
-    - Todd Hefner
-  - title: "Primer: Spectral analysis"
-    description: null
-    time: 11:15 - 12:00
-    leads:
-    - Wu-Jung Lee
-  - title: LUNCH
-    description: null
-    time: 12:00 - 13:00
-  - title: "Primer: Sampling and quantization"
-    description: null
-    time: 13:00 - 13:45
-    leads:
-    - Valentina Staneva
-  - title: BREAK
-    description: null
-    time: 13:45 - 14:00
-  - title: "Primer: Probability distributions"
-    description: null
-    time: 14:00 - 14:45
-    leads:
-    - Valentina Staneva
-  - title: BREAK
-    description: null
-    time: 14:45 - 15:00
-  - title: "Hands-on exercise: ocean experimental data"
-    description: null
-    time: 15:00 - 17:30
+    time: 9:45 - 10:00
     leads:
     - All
-  - title: Informal social
+  - title: BREAK
+    description: null
+    time: 10:00 - 10:15
+  - title: "Theory: Acoustic receivers"
+    description: null
+    time: 10:15 - 11:15
+    leads:
+    - Todd Hefner
+  - title: BREAK
+    description: null
+    time: 11:15 - 11:30
+  - title: "Theory: Acoustic propagation"
+    description: null
+    time: 11:30 - 12:30
+    leads:
+    - Todd Hefner
+  - title: LUNCH
+    description: null
+    time: 12:30 - 13:30
+  - title: Q&A
+    description: null
+    time: 13:30 - 14:00
+  - title: "Primer: Spectral analysis"
+    description: null
+    time: 14:00 - 15:00
+    leads:
+    - Wu-Jung Lee
+  - title: BREAK
+    description: null
+    time: 15:00 - 15:15
+  - title: "Primer: Probability distributions"
+    description: null
+    time: 15:15 - 16:15
+    leads:
+    - Valentina Staneva
+  - title: BREAK
+    description: null
+    time: 16:15 - 16:30
+  - title: "Hands-on exercise: ocean experimental data"
+    description: null # noise distribution of spectrum, ambient, transient signals
+    time: 16:30 - 17:30
+    leads:
+    - All
+  - title: Informal social (dinner provided)
     description: null
     time: 17:30 - 19:00
 - title: Day 2
   contents:
-  - title: Day 1 recap
+  - title: Day 1 recap / logistics
     description: null
     time: 8:30 - 9:00
     leads:
     - All
-  - title: "Theory: Acoustic receivers"
+  - title: "Theory: Acoustic sources"
     description: null
     time: 9:00 - 9:45
     leads:
     - Todd Hefner
-  - title: BREAK
-    description: null
-    time: 9:45 - 10:00
-  - title: "Theory: Acoustic scattering"
-    description: null
-    time: 10:00 - 10:45
-    leads:
-    - Wu-Jung Lee
-  - title: BREAK
-    description: null
-    time: 10:45 - 11:00
   - title: "Primer: How to read an instrument spec sheet"
     description: null
-    time: 11:00 - 11:45
+    time: 9:45 - 10:00
     leads:
     - Todd Hefner
+  - title: BREAK
+    description: null
+    time: 10:00 - 10:15
+  - title: "Theory: Acoustic scattering"
+    description: null
+    time: 10:15 - 11:15
+    leads:
+    - Wu-Jung Lee
+  - title: "Hands-on exercise: ocean experimental data"
+    description: null # echograms
+    time: 11:15 - 12:00
   - title: LUNCH
     description: null
-    time: 11:45 - 12:45
+    time: 12:00 - 13:00
+  - title: Q&A
+    description: null
+    time: 13:00 - 13:30
   - title: "Primer: Statistical tests and estimation"
     description: null
-    time: 12:45 - 13:30
+    time: 13:30 - 14:30
     leads:
     - Valentina Staneva
   - title: BREAK
     description: null
-    time: 13:30 - 13:45
+    time: 14:30 - 14:45
   - title: "Hands-on exercise: ocean experimental data"
     description: null
-    time: 13:45 - 15:45
+    time: 14:45 - 15:45
     leads:
     - All
   - title: BREAK
