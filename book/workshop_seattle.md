@@ -5,18 +5,18 @@
 - **Where**: University of Washington, Seattle
 - **What**: The BOAT Seattle workshop aims to engage students in the Pacific Northweat region for two days of learning and exploration around ocean acoustics theory and practice 
 - **Who**: 
-- Senior undergraduate students
-- Graduate students in the first two years of PhD or masters program
+    - Senior undergraduate students
+    - Graduate students in the first two years of PhD or masters program
 - **Why**: The BOAT workshop is for you if you are interested in:
-- Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
-- Connectedwith a community of learners / researchers / educators with interests in related areas
+    - Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
+    - Connectedwith a community of learners / researchers / educators with interests in related areas
 
 
 
 ## Application
-Apply to the BOAT Seattle workshop by filling out this google form: SEATTLE_GOOGLE_FORM
+The application for the BOAT Seattle workshop will open in January 2025 - [**Sign up here to get notified!**](https://docs.google.com/forms/d/e/1FAIpQLScootOMq09YtlLCDkizWPF9J_lQ9VF-noCFxnTMW6HfStSkwA/viewform)
 
-Got questions? Check out our FAQ, and reach out to us at {{ contact_email }} if you can't find answers there!
+Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_email }} if you can't find answers there!
 
 
 
