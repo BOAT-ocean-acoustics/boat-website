@@ -11,7 +11,7 @@ tabs:
     description: null
     time: 9:45 - 10:00
     leads:
-    - All
+    - Valentina Staneva
   - title: BREAK
     description: null
     time: 10:00 - 10:15
@@ -31,7 +31,7 @@ tabs:
   - title: LUNCH
     description: null
     time: 12:30 - 13:30
-  - title: Q&A
+  - title: "Morning recap: Q&A"
     description: null
     time: 13:30 - 14:00
   - title: "Primer: Spectral analysis"
@@ -60,7 +60,7 @@ tabs:
     time: 17:30 - 19:00
 - title: Day 2
   contents:
-  - title: Day 1 recap / logistics
+  - title: Day 1 recap
     description: null
     time: 8:30 - 9:00
     leads:
@@ -89,7 +89,7 @@ tabs:
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
-  - title: Q&A
+  - title: "Morning recap: Q&A"
     description: null
     time: 13:00 - 13:30
   - title: "Primer: Statistical tests and estimation"
