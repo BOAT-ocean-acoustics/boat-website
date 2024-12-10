@@ -1,6 +1,6 @@
 # New Orleans Workshop
 
-## Qucik facts
+## Quick facts
 - **When**: May 17-18, 2025 (immediately before the [2025 spring meeting of the Acoustical Society of America](https://acousticalsociety.org/new-orleans-2025/))
 - **Where**: Loyola University, New Orleans
 - **What**: The BOAT New Orleans workshop aims to engage participants who plan to attend the ASA meeting for two days of learning and exploration around ocean acoustics theory and practice 

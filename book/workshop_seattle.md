@@ -1,6 +1,6 @@
 # Seattle Workshop
 
-## Qucik facts
+## Quick facts
 - **When**: March 24-25, 2025
 - **Where**: University of Washington, Seattle
 - **What**: The BOAT Seattle workshop aims to engage students in the Pacific Northweat region for two days of learning and exploration around ocean acoustics theory and practice
