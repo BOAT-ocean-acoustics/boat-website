@@ -35,6 +35,8 @@ team:
   !include team/team.yaml
 schedule:
   !include book/schedule.yaml
+application:
+  !include book/application.yaml
 sponsors:
   description: ''
   organizations:

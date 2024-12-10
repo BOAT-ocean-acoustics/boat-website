@@ -142,7 +142,7 @@
 </div>
 <!--//hero-block-->
 
-<section id="about-section" class="about-section section theme-bg-light">
+<section id="about-section" class="about-section section">
     <div class="container">
         <h3 class="section-heading text-center mb-3">
             About BOAT
@@ -194,20 +194,138 @@
             </div>
         </div>
     </div>
-
-    <div class="media-block theme-bg-primary py-5">
-        <div class="container">
-            <h4 class="text-white text-center mb-3">
-                Information for Applicants
-            </h4>
-            <div
-                class="section-intro text-center single-col-max mx-auto text-white mb-3">
-                {{cookiecutter.applicant_info}}
-            </div>
-        </div>
-    </div>
 </section>
 <!--//about-section-->
+
+<!-- <section id="applicant-info" class="about-section section theme-bg-light" style="background-color: #daebf5;"> -->
+<section id="applicant-info" class="about-section section theme-bg-light">
+        <div class="container">
+            <h3 class="section-heading text-center mb-3">
+                Information for Applicants
+            </h3>
+            <div
+                class="section-intro text-center single-col-max mx-auto mb-3">
+                {{cookiecutter.applicant_info}}
+            </div>
+    </div>
+
+{%- if cookiecutter.application %}
+<section id="application" class="schedule-section section">
+    <div class="container">
+        <h4 class="text-center mb-3">Key dates:</h4>
+        {%- if cookiecutter.application["tabs"] %}
+        
+
+        <!-- Tab panes -->
+        <div class="schedule-tab-content tab-content">
+            {% for tab in cookiecutter.application["tabs"] %}
+            {%- if 'contents' in tab %}
+            {%- if loop.index == 1 %}
+            {%- set tab_class = 'active' %}
+            {%- if tab['contents']|length == 0 %}
+            {%- set tab_class = 'active no-timeline' %}
+            {%- endif %}
+            {%- elif tab['contents']|length == 0 %}
+            {%- set tab_class = 'no-timeline' %}
+            {%- else %}
+            {%- set tab_class = '' %}
+            {%- endif %}
+            {%- else %}
+            {%- set tab_class = 'no-timeline' %}
+            {%- endif %}
+            <div class="tab-pane {{ tab_class }}"
+                 id="schedule-{{ loop.index }}-content"
+                 role="tabpanel"
+                 aria-labelledby="schedule-tab-{{ loop.index }}">
+                {%- if 'no-timeline' in tab_class %}
+                <h4 class="text-center py-5 text-muted">
+                    {{ tab['title'] }} Agenda Coming Soon...
+                </h4>
+                {%- else %}
+                {%- for content in tab['contents'] %}
+                <div class="item item-talk">
+                    <div class="meta">
+                        <h4 class="time mb-3">
+                            {{ content['time'] }}
+                        </h4>
+                    </div>
+
+                    <div class="content">
+                        <h3 class="title mb-3">
+                            {{ content['title'] }}
+                        </h3>
+
+                        {% if 'location' in content %}
+                        <div class="location mb-3"><i
+                            class="fas fa-map-marker-alt me-2"></i>
+                            {{ content['location'] }}
+                        </div>
+                        {% endif %}
+
+                        <div class="desc">
+                            {% if 'description' in content and content['description'] is not none %}
+                            {%- markdown -%}
+                            {{ content['description']|safe }}
+                            {%- endmarkdown -%}
+                            {%- endif %}
+                        </div>
+                        {%- if 'leads' in content and content['leads']|length > 0 %}
+                        <div class="profile">
+                            <h6 class="mb-1 mt-2"> Tutorial Lead(s)</h6>
+                            {%- for lead in content['leads'] %}
+                            {%- set person = cookiecutter.team['people']|selectattr('title', '==', lead)|list %}
+                            {%- if person|length > 0 %}
+                            {%- set modal_name = person[0]['title']|lower|replace(' ', '--') %}
+                            {%- set modal_key = '{}-modal'.format(modal_name) %}
+                            <div class="name">
+                                <a class="theme-link"
+                                   href="#{{modal_key}}"
+                                   data-bs-toggle="modal"
+                                   data-bs-target="#{{modal_key}}">
+                                    {{ lead }}
+                                </a>
+                            </div>
+                            {%- else %}
+                            <div class="name">{{ lead }}</div>
+                            {%- endif %}
+                            {%- endfor %}
+                        </div>
+                        {%- endif %}
+                        {%- if 'resources' in content and content['resources'] is not none %}
+                        <div>
+                            <h6 class="mb-1 mt-2"> Resource(s)</h6>
+                            <ul>
+                                {%- for resource in content['resources'] %}
+                                <li>
+                                    <a href="{{resource['url']}}"
+                                       target="_blank">
+                                        {{resource['title']}}
+                                    </a>
+                                </li>
+                                {%- endfor %}
+                            </ul>
+                        </div>
+                        {%- endif -%}
+                    </div>
+                </div>
+                {% endfor %}
+                <!--//item-->
+                {%- endif %}
+            </div>
+            <!--//tab-{{loop.index}}-content-->
+            {% endfor %}
+        </div>
+        <!--//schedule-tab-content-->
+        {%- endif %}
+    </div>
+    <!--//container-->
+</section>
+<!--//schedule-section-->
+{% endif %}
+</section>
+
+
+
 
 {%- if cookiecutter.schedule %}
 <section id="schedule" class="schedule-section section">
