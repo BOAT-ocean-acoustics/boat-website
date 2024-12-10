@@ -1,35 +1,46 @@
 # New Orleans Workshop
 
-## Date / Location
-Loyola University, New Orleans
+## Qucik facts
+- **When**: May 17-18, 2025 (immediately before the [2025 spring meeting of the Acoustical Society of America](https://acousticalsociety.org/new-orleans-2025/))
+- **Where**: Loyola University, New Orleans
+- **What**: The BOAT New Orleans workshop aims to engage participants who plan to attend the ASA meeting for two days of learning and exploration around ocean acoustics theory and practice 
+- **Who**: 
+    - Senior undergraduate students
+    - Graduate students in the first two years of PhD or masters program
+    - Researchers who need fundamental ocean acoustics knowledge
+- **Why**: The BOAT workshop is for you if you are interested in:
+    - Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
+    - Getting connected with a community of learners / researchers / educators in related fields
 
-## Target audience
-The New Orleans workshop is ...
 
 
 ## Application
-Application link
+The application for the BOAT Seattle workshop will open in January 2025.
 
+[**Sign up here to get notified!**](https://docs.google.com/forms/d/e/1FAIpQLScootOMq09YtlLCDkizWPF9J_lQ9VF-noCFxnTMW6HfStSkwA/viewform)
 
-
+Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_email }} if you can't find answers there!
 
 
 
 ## Logistics
 
-### General
+### Venue / timing
+* The workshop will take place in person in **LOCATION**.
+* Door is open at 8:00 am each morning, and we will start the morning sessions at 8:30 am sharp.
+* Due to space limitations, only registered BOAT participants can attend the workshop.
 
-* Tutorials and courses will occur in the Maple Hall Great Room.
-* Doors open at 8:30 am each morning (Monday-Friday). We will start the morning
-  sessions at 9:00 am sharp.
-* Due to space limitations, only registered SnowEx participants will be allowed
-  to attend the tutorials and open working sessions.
-* Participants are expected to attend all scheduled activities. Contact
-  {{ contact_email }} if any circumstances prevent you from attending.
+### Meals
+* Coffee, lunch and, snacks will be provided both days at the BOAT workshop.
+* Dinner will be provided for the first day of the workshop.
 
-### Dorms
+<!-- ### Transportation
+* **GROUND TRANSPORTATION TIPS (PROBABLY FROM LOYOLA UNIV)** -->
 
-* Dorms are all single/double rooms and each contain a private bathroom.
+### Lodging
+* We plan provide 2 nights of lodging (nights of May 16-17) for students who need financial assistance to attend the BOAT program.
+* Details about lodging will be provided soon.
+<!-- * Dorms are all single/double rooms and each contain a private bathroom.
 * Participants who opt to will be staying at Willow Hall. Please Check in after
   2pm at the front desk on Sunday, July 10th.
 * Check out is by 11am on Saturday, July 16th. There will be a room where you
@@ -41,34 +52,16 @@ Application link
 * Dorm guests are able to use their key cards to access any gyms on campus. For
   off-campus activities, guests have easy access to The Ave, which hosts a
   number of restaurants, late-night activities and retail establishments.
-* The dorms have coin-operated laundry facilities.
+* The dorms have coin-operated laundry facilities. -->
 
-### Meals
 
-* Breakfast and lunch will be provided each day through the meal cards that will
-  be given to you when you check in to the dorms.
-* Your meal card is programmed with the prearranged All-You-Care-to-Eat meals,
-  which can be used at Local Point dining hall. Please note that this is the
-  only dining location on campus that the card will work for.
-* Breakfast is available in the Local Point dining facility from 7:30am – 10am
-  and lunch is available from 11am – 2:30pm.
-* If you are staying at a hotel or commuting, you will receive a meal card when
-  you check in at the welcome table on the first day at the Maple Hall Great
-  Room.
 
-### Travel
+### Communication
 
-* Seattle-Tacoma International Airport offers a range of connections to the
-  University of Washington Campus.
-* The Link light rail is an easy, great way to get to the UW campus from the
-  airport. It picks you up at the airport, comes about every 5-15 minutes, and
-  drops you off right on the UW campus; just a 15-minute walk from the dorms you
-  will be staying in.
-* From the arrivals hall at Sea-Tac Airport, follow the signs for Link Light
-  Rail; the station is a short walk from the terminal on the far side of the
-  parking garage. Tickets must be purchased at the station before boarding. The
-  cost is $3.00 and can be paid in cash or with a credit/debit card. Take the
-  northbound train toward Northgate to the University of Washington station (
-  Note: do not get off at the University Street Station!).
-* Taxi’s and uber/lyft are also available from the airport. Note that for
-  uber/lyft you will meet the car in the 3rd floor parking lot for pick up.
+#### During workshop
+- We will use the BOAT Zulip workspace as the main channel of communication during the workshop. You should have received an invitation to join this workspace. If you haven’t seen it in your inbox, check your spam folder, or email us at {{ contact_email }}.
+- We know how overwhelming an intensive workshop can be! You can ask anything on the Zulip `#help-new-orleans` channel at anytime. The BOAT organizing team are monitoring this channel, and some of your fellow participants may also be able to help you.
+
+#### After workshop
+- We encourage everyone to continue interacting with each other and build our community together at the **DISCOURSE_FORUM**.
+- If you are interested in creating more BOAT tutorials and/or getting involved in organizing future BOAT workshops, don't hesitate to reach out to us at {{ contact_email }}!
