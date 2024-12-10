@@ -1,20 +1,17 @@
 - title: Todd Hefner
   avatar: assets/images/todd-hefner.png
-  role: Your title
+  role: Senior Principal Physicist
   organizations:
-    - name: Your institution
-  bio: A short bio about yourself.
-    You can have multiple lines. Just watch that you have two leading spaces at the beginning.
+    - name: Applied Physics Laboratory, University of Washington
+  bio: Todd Hefner received the B.S. degree in physics from Bard College, 
+  Annandale-On-Hudson, NY, USA, in 1994, and the M.S. and Ph.D. degrees 
+  in physics from Washington State University, Pullman, WA, USA, in 1996 
+  and 2000, respectively. He has been involved in a number of at-sea experiments 
+  in his time at APL-UW and currently serves as the chair of the Acoustics Department.
   expertise:
-    - skill 1
-    - skill 2
-  social:
-    - icon: github
-      link: Link to your GitHub profile
-    - icon: twitter
-      link: Link to your Twitter profile
-    - icon: linkedin
-      link: Link to your LinkedIn profile
+    - Mid-frequency ocean acoustic propagation and reverberation
+    - Sediment Acoustics
+    - Remote sensing of the seafloor
   user_groups:
     - Event Organizer
     - Tutorial Lead
