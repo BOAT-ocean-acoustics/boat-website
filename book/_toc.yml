@@ -6,7 +6,7 @@ parts:
 - caption: Details
   chapters:
     - file: workshop_seattle
-    - file: workshop_neworleans
+    - file: workshop_new_orleans
     - title: Schedule
       url: https://boat-ocean-acoustics.github.io/boat-website/index.html?jump_to=schedule
     - file: faq

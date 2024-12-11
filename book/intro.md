@@ -16,6 +16,6 @@
 ```{admonition} Quick links
 :class: seealso
 * [Seattle workshop](./workshop_seattle) (March 24-25, 2025)
-* [New Orleands workshop](./workshop_neworleans) (May 17-18, 2025)
+* [New Orleands workshop](./workshop_new_orleans) (May 17-18, 2025)
 * GitHub organization: {{ github_org_url}}
 ```
