@@ -1,8 +1,8 @@
 repo_directory: html
 name: Bridge to Ocean Acoustics & Technology
-apply:
-  url: https://forms.gle/CAE6CoxsC3ftPnHcA
-  title: Application coming soon
+# apply:
+#  url: https://forms.gle/CAE6CoxsC3ftPnHcA
+#  title: Application coming soon
 banner:
   description: A community-supported education program for ocean acoustics theory and practice.
   start_date: ''
