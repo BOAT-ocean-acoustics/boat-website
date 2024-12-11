@@ -1,20 +1,21 @@
 - title: Wu-Jung Lee
-  avatar: https://leewujung.github.io/authors/admin/avatar_hu78d224dd63dc200a46c13d6ae651e001_519955_250x250_fill_q90_lanczos_center.jpg
-  role: Your title
+  avatar: https://uw-echospace.github.io/author/wu-jung-lee/avatar_hue32bd5ea14559ee6625b974cf92f99ba_1703649_270x270_fill_q90_lanczos_center.jpg
+  role: Principal Oceanographer
   organizations:
-    - name: Your institution
-  bio: A short bio about yourself.
-    You can have multiple lines. Just watch that you have two leading spaces at the beginning.
+    - name: Applied Physics Lab, University of Washington
+  bio: Wu-Jung enjoys working on problems that bridge across disciplinary boundaries and with people from different backgrounds. Her research focuses on acoustical oceanography and animal echolocation. In acoustical oceanography, she develops physics-based and data-driven methods to extract biological insights from active acoustic ocean observations. In animal echolocation, she combines experimental and computational approaches to study the sonar of bats and dolphins as models for engineering applications. She develops and maintains the [Echopype](https://github.com/OSOceanAcoustics/echopype) open-source Python package for scalable echosounder data processing, and advocates for an inclusive, supportive research community by organizing [OceanHackWeek](https://oceanhackweek.org/), a workshop centered around data science in oceanography.
   expertise:
-    - skill 1
-    - skill 2
+    - acoustic scattering
+    - animal echolocation
+    - signal processing
+    - fisheries acoustics
+    - open-source software
   social:
     - icon: github
-      link: Link to your GitHub profile
-    - icon: twitter
-      link: Link to your Twitter profile
+      link: https://github.com/leewujung
     - icon: linkedin
-      link: Link to your LinkedIn profile
+      link: https://www.linkedin.com/in/leewujung/
   user_groups:
     - Event Organizer
     - Tutorial Lead 
+    - BOAT Program Lead
