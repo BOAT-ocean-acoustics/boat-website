@@ -17,13 +17,12 @@ banner:
 # The opening session of the event with UTC offset
 event_countdown: "2024-08-07T08:30:00-07:00"
 about:
-  description: The BOAT (Bridge to Ocean Acoustics and Technology) program aims
+  description: "The BOAT (Bridge to Ocean Acoustics and Technology) program aims
     to create a community-supported educational initiative to
     empower learners to explore ocean acoustics theory and practice 
     and advance the field through collaboration and shared knowledge.
-
-    Learn more about [the goals of the BOAT program](https://boat-ocean-acoustics.github.io/intro.html),
-    and checkout the [FAQs](https://boat-ocean-acoustics.github.io/faq.html) for the upcoming workhops!
+    \nLearn more about [goals of the BOAT program](https://boat-ocean-acoustics.github.io/intro.html),
+    and checkout the [FAQs](https://boat-ocean-acoustics.github.io/faq.html) for the upcoming workhops!"
   # learn_more: https://boat-ocean-acoustics.github.io/intro.html
   links:
     - url: https://boat-ocean-acoustics.github.io/workshop_seattle.html
