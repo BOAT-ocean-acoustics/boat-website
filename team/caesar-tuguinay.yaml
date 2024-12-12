@@ -1,19 +1,15 @@
 - title: Caesar Tuguinay
   avatar: https://uw-echospace.github.io/author/caesar-tuguinay/avatar_hu91f4814411e1234976d159b9f96b7860_33992_270x270_fill_q90_lanczos_center.jpg
-  role: Your title
+  role: Research Assistant
   organizations:
-    - name: Your institution
-  bio: A short bio about yourself.
-    You can have multiple lines. Just watch that you have two leading spaces at the beginning.
+    - name: Applied Physics Lab, University of Washington
+  bio: Caesar earned a B.S. in Mathematics from the University of Washington in 2023 and is currently pursuing an M.Sc. in Applied Mathematics also at the University of Washington, expecting to graduate in 2025. He develops and maintains the [Echopype](https://github.com/OSOceanAcoustics/echopype) open-source Python package for scalable echosounder data processing. He is a developer and maintainer of the Echopype open-source Python package, which enables scalable echosounder data processing. Using Echopype as a foundation, Caesar conducts research in machine learning applications for fisheries acoustics.
   expertise:
-    - skill 1
-    - skill 2
+    - acoustic scattering
+    - signal processing
+    - open-source software
   social:
     - icon: github
-      link: Link to your GitHub profile
-    - icon: twitter
-      link: Link to your Twitter profile
-    - icon: linkedin
-      link: Link to your LinkedIn profile
+      link: https://github.com/ctuguinay
   user_groups:
     - Tutorial Helper
