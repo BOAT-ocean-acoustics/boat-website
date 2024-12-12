@@ -1,27 +1,28 @@
 repo_directory: html
 name: Bridge to Ocean Acoustics & Technology
-apply:
-  url: https://forms.gle/CAE6CoxsC3ftPnHcA
-  title: Application coming soon
+# apply:
+#  url: https://forms.gle/CAE6CoxsC3ftPnHcA
+#  title: Application coming soon
 banner:
-  description: A community-supported education program for ocean acoustics theories and practices.
+  description: A community-supported education program for ocean acoustics theory and practice.
   start_date: ''
   end_date: ''
   year: ''
   location: ''
   links:
-  - url: intro.html
-    title: Event Jupyter Book
-    new_window: false
+#  - url: intro.html
+#    title: Event Jupyter Book
+#    new_window: false
   image: https://geohackweek.github.io/assets/images/banner.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2024-08-07T08:30:00-07:00"
 about:
-  description: The BOAT (Bridge to Ocean Acoustics and Technology) program aims
+  description: 'The BOAT (Bridge to Ocean Acoustics and Technology) program aims
     to create a community-supported educational initiative to
     empower learners to explore ocean acoustics theory and practice 
-    and advance the field through collaboration and shared knowledge.
-  # learn_more: https://escience.washington.edu/using-data-science/hackweeks
+    and advance the field through collaboration and shared knowledge.'
+   
+  # learn_more: https://boat-ocean-acoustics.github.io/intro.html
   links:
     - url: https://boat-ocean-acoustics.github.io/workshop_seattle.html
       title: 'Seattle: March 24-25, 2025'
