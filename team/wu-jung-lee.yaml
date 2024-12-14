@@ -3,12 +3,22 @@
   role: Principal Oceanographer
   organizations:
     - name: Applied Physics Lab, University of Washington
-  bio: Wu-Jung enjoys working on problems that bridge across disciplinary boundaries and with people from different backgrounds. Her research focuses on acoustical oceanography and animal echolocation. In acoustical oceanography, she develops physics-based and data-driven methods to extract biological insights from active acoustic ocean observations. In animal echolocation, she combines experimental and computational approaches to study the sonar of bats and dolphins as models for engineering applications. She develops and maintains the [Echopype](https://github.com/OSOceanAcoustics/echopype) open-source Python package for scalable echosounder data processing, and advocates for an inclusive, supportive research community by organizing [OceanHackWeek](https://oceanhackweek.org/), a workshop centered around data science in oceanography.
+  bio: Wu-Jung has a background in electrical engineering and biology. 
+    She loves working on problems that cross disciplinary boundaries 
+    and enjoys collaborating with people from diverse backgrounds. 
+    Her research focuses on active acoustic sensing by humans (acoustical
+    oceanography) and animals (echolocation), with a goal to improve our
+    bility to observe and understand the marine ecosystem.
+    She develops and maintains the open-source Python package Echopype
+    for scalable echosounder data processing, and contributes to building
+    a supportive research community by organizing OceanHackWeek,
+    a workshop focused on data science in oceanography.
+
   expertise:
     - acoustic scattering
     - animal echolocation
-    - signal processing
     - fisheries acoustics
+    - signal processing
     - open-source software
   social:
     - icon: github
