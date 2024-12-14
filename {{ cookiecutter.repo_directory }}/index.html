@@ -43,6 +43,7 @@
                     </a>
                 </div>
 
+            <!--
                 {%- if 'apply' in cookiecutter %}
                 <div class="navbar-btn order-lg-2">
                     <a class="btn btn-secondary"
@@ -55,6 +56,7 @@
                     </a>
                 </div>
                 {%- endif %}
+            -->
 
                 <button class="navbar-toggler" type="button"
                         data-bs-toggle="collapse" data-bs-target="#navigation"
@@ -151,16 +153,23 @@
         <div class="section-intro single-col-max mx-auto mb-3">
             {{ cookiecutter.about.description }}
         </div>
-        {%- if 'learn_more' in cookiecutter.about %}
+
         <div class="about-cta text-center mb-4">
-            <a class="btn btn-secondary btn-lg"
-               href="{{ cookiecutter.about.learn_more }}"
-               target="_blank">
-                Learn more about BOAT
-                <i class="fas fa-external-link-alt"></i>
+
+            Learn more about the goals of the
+            <a 
+               href="https://boat-ocean-acoustics.github.io/intro.html"
+               target="_blank"> <b>BOAT program</b>
             </a>
-        </div>
-        {%- endif %}
+            and check out the 
+            <a
+            href="https://boat-ocean-acoustics.github.io/faq.html"
+            target="_blank"> 
+            <b>FAQs</b>
+            </a>        
+            for the upcoming workhops!
+         </div>
+
 
         {%- if 'links' in cookiecutter.about %}
             <div class="hero-cta text-center mb-4">
@@ -200,7 +209,7 @@
 <section id="about-section" class="about-section section theme-bg-light">
     <div class="media-block py-5">
         <div class="container">
-            <h3 class="text-center mb-3">
+            <h3 class="section-heading text-center mb-3">
                 Information for Applicants
             </h3>
             <div class="section-intro text-center single-col-max mx-auto mb-3">
@@ -580,6 +589,13 @@
             <a href="http://themes.3rdwavemedia.com" target="_blank">
                 Xiaoying Riley
             </a> for developers
+        </small>
+        <br>
+        <small class="copyright">
+            This template was forked from the University of Washington eScience Institute
+            <a href="https://github.com/uwhackweek/splashpage-template" target="_blank">
+                Hackweek program
+            </a>
         </small>
     </div>
 </footer>
