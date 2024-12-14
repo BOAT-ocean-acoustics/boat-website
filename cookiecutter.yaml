@@ -13,7 +13,7 @@ banner:
 #  - url: intro.html
 #    title: Event Jupyter Book
 #    new_window: false
-  image: https://geohackweek.github.io/assets/images/banner.jpg
+  image: https://boat-ocean-acoustics.github.io/blob/aa22b97831c430ad6b1b5728e2ae13c4a02e6561/%7B%7B%20cookiecutter.repo_directory%20%7D%7D/assets/images/shimada_sunset.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2024-08-07T08:30:00-07:00"
 about:
