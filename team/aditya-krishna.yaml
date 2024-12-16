@@ -1,0 +1,21 @@
+- title: Aditya Krishna
+  avatar: https://uw-echospace.github.io/author/aditya-krishna/avatar_hu8386a219465815bd5066b8b2549ecf20_24185_270x270_fill_q90_lanczos_center.jpg
+  role: Research Assistant
+  organizations:
+    - name: Applied Physics Lab, University of Washington
+  bio: Aditya is currently pursuing a PhD in Electrical Engineering from the University of Washington.
+    He earned a B.S. in Electrical Engineering from the University of Washington in 2024.
+    His introduction to acoustics started with using Audiomoth recorders to monitor nearby bat populations via their echolocation calls. 
+    Becoming fascinated by the process of echolocation, Aditya now wishes to explore how echolocating animals make decisions using acoustic inputs.
+  expertise:
+    - signal processing
+    - bioacoustics
+    - software development
+  social:
+    - icon: github
+      link: https://github.com/aditya-uw
+    - icon: linkedin
+      link: https://www.linkedin.com/in/aditya-uw/
+  user_groups:
+    - Tutorial Helper
+
