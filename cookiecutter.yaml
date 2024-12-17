@@ -11,7 +11,7 @@ banner:
   location: ''
   links:
   - url: intro.html
-    title: BOAT program
+    title: BOAT Program
     new_window: false
   image: assets/images/carson_laptop.jpg
 # The opening session of the event with UTC offset
