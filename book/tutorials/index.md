@@ -4,7 +4,8 @@ During the BOAT workshop, we will focus on developing physical intuitions behind
 
 Beyond the workshop, we encourage participants to dive deeper into the physics, math, and signal processing concepts behind each topic. The BOAT team continues to develop in-depth tutorials on these topics as part of the program and will link below over time.
 
-Below you can find two tables for all workshop tutorials and recordings, as well as extended reading materials for self-learning beyond the workshop.
+Below you will find two tables linking all workshop tutorials and recordings, as well as extended reading materials for self-learning beyond the workshop.
+
 
 ## Acoustics
 | Session | Topics | Workshop tutorials | Recording | Extended readings |
@@ -13,6 +14,7 @@ Below you can find two tables for all workshop tutorials and recordings, as well
 | Receivers | <ul> <li>Sensitivity</li> <li>Receiving beam pattern</li> <li> Sources contributing to soundscape </li> </ul> |  |
 | Propagation| <ul> <li>Free space propagation</li> <li>Impacts of the medium: sound speed, attenuation</li> <li>Reflection and transmission</li> <li>Ocean propagation</li> </ul> |  |
 | Scattering | <ul> <li>Scattering cross section, target strength</li> <li>Discrete scatterers</li> <li>Surface scattering</li> <li>Volume scattering</li> </ul> |  |
+
 
 ## Technical primers
 | Session | Topics | Workshop tutorials | Recording | Extended readings |
