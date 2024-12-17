@@ -2,16 +2,18 @@
 
 ## Quick facts
 - **When**: May 17-18, 2025 (immediately before the [2025 spring meeting of the Acoustical Society of America](https://acousticalsociety.org/new-orleans-2025/))
-- **Where**: Loyola University, New Orleans
-- **What**: The BOAT New Orleans workshop aims to engage participants who plan to attend the ASA meeting for two days of learning and exploration around ocean acoustics theory and practice 
+- **Where**: TBD, will be in New Orleans, LA
+- **What**: 
+  - The BOAT New Orleans workshop aims to engage participants who plan to attend the ASA meeting for two days of learning and exploration around ocean acoustics theory and practice 
 - **Who**: 
-    - Senior undergraduate students
-    - Graduate students in the first two years of PhD or masters program
-    - Researchers who need fundamental ocean acoustics knowledge
+  - Senior undergraduate students
+  - Graduate students in the first two years of PhD or masters program
+  - Researchers who need fundamental ocean acoustics knowledge
 - **Why**: The BOAT workshop is for you if you are interested in:
-    - Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
-    - Getting connected with a community of learners / researchers / educators in related fields
-
+  - Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
+  - Getting connected with a community of learners / researchers / educators in related fields
+- **Financial support**: 
+  - We plan to provide partial travel support and two nights of lodging for students needing financial assistance to participate in the workshop. See [](new-orleands-logistics) for detail.
 
 
 ## Application
@@ -23,19 +25,17 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 
 
 
+(new-orleands-logistics)=
 ## Logistics
 
-### Venue / timing
+<!-- ### Venue / timing
 * The workshop will take place in person in **LOCATION**.
 * Door is open at 8:00 am each morning, and we will start the morning sessions at 8:30 am sharp.
-* Due to space limitations, only registered BOAT participants can attend the workshop.
+* Due to space limitations, only registered BOAT participants can attend the workshop. -->
 
 ### Meals
 * Coffee, lunch and, snacks will be provided both days at the BOAT workshop.
 * Dinner will be provided for the first day of the workshop.
-
-<!-- ### Transportation
-* **GROUND TRANSPORTATION TIPS (PROBABLY FROM LOYOLA UNIV)** -->
 
 ### Lodging
 * We plan provide 2 nights of lodging (nights of May 16-17) for students who need financial assistance to attend the BOAT program.
@@ -55,7 +55,10 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 * The dorms have coin-operated laundry facilities. -->
 
 
+<!-- ### Transportation
+* **GROUND TRANSPORTATION TIPS (PROBABLY FROM LOYOLA UNIV)** -->
 
+<!-- 
 ### Communication
 
 #### During workshop
@@ -64,4 +67,4 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 
 #### After workshop
 - We encourage everyone to continue interacting with each other and build our community together at the **DISCOURSE_FORUM**.
-- If you are interested in creating more BOAT tutorials and/or getting involved in organizing future BOAT workshops, don't hesitate to reach out to us at {{ contact_email }}!
+- If you are interested in creating more BOAT tutorials and/or getting involved in organizing future BOAT workshops, don't hesitate to reach out to us at {{ contact_email }}! -->
