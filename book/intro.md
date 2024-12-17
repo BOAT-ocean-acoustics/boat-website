@@ -1,20 +1,13 @@
 # Welcome to {{hackweek}}!
 
-The Bridge to Ocean Acoustics and Technology (BOAT) program aims to "open up the funnel" of student intake to ocean acoustics, and preserve the institutional knowledge in this field in an interactive, accessible, and attractive form. We focus on:
-1) Create open, executable, and web-hosted tutorials that encapsulate fundamental ocean acoustics knowledge and techniques as living documents, and
-2) Grow the ocean acoustics education and research community through education and collaborative resource deveopment workshops.
+The Bridge to Ocean Acoustics and Technology (BOAT) program aims to broaden access to ocean acoustics by fostering a vibrant, collaborative, and inclusive community. 
 
-In the current pilot stage, we are building tutorials on fundamental ocean acoustics concepts that can serve as "blueprints" for further developments on more advanced topics.
+## Our focus
+1) Developing open, executable, and web-hosted tutorials that encapsulate fundamental ocean acoustics knowledge and techniques as living documents.
+2) Growing the ocean acoustics education and research community through interactive and collaborative workshops.
 
-Our long-term goal is to build a strong learner-research-contributor community who jointly support this program to expand access to ocean acoustics theory and practice and to recruit the next generation of talent to this field.
-
-
-<!--📖 On this JupyterBook website you'll find [tutorials](tutorials/index). All tutorials are Jupyter Notebooks, 
-designed to be run interactively, but also rendered on this website for convenience.-->
-
-<!-- 👩‍💻 During a Hackweek teams work collaboratively on different projects. Read more about the projects and results on our [projects page](projects/index) -->
-
-<!-- 💡 Learn more about hackweeks hosted by the [University of Washington eScience Institute](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html), or check out our publication describing the hackweek educational model {cite:p}`Huppenkothen2018`. -->
+## Current status
+In this pilot stage, we are building foundational tutorials on core ocean acoustics concepts that can serve as "blueprints" for further developments on advanced topics and techniques. We will also host two education workshops to engage learners from diverse backgrounds to "open up the funnel" for student intake into ocean acoustics.
 
 
 ## The BOAT Philosophy
