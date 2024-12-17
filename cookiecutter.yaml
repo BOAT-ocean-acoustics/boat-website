@@ -24,10 +24,10 @@ about:
    
   # learn_more: https://boat-ocean-acoustics.github.io/intro.html
   links:
-    - url: https://boat-ocean-acoustics.github.io/workshop_seattle.html
+    - url: workshop_seattle.html
       title: 'Seattle: March 24-25, 2025'
       new_window: True
-    - url: https://boat-ocean-acoustics.github.io/workshop_new_orleans.html
+    - url: workshop_new_orleans.html
       title: 'New Orleans: May 17-18, 2025'
       new_window: True
 applicant_info: Applications to the 2025 BOAT workshops are expected to open 
