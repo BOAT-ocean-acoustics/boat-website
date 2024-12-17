@@ -3,15 +3,17 @@
 ## Quick facts
 - **When**: May 17-18, 2025 (immediately before the [2025 spring meeting of the Acoustical Society of America](https://acousticalsociety.org/new-orleans-2025/))
 - **Where**: TBD, will be in New Orleans, LA
-- **What**: The BOAT New Orleans workshop aims to engage participants who plan to attend the ASA meeting for two days of learning and exploration around ocean acoustics theory and practice 
+- **What**: 
+  - The BOAT New Orleans workshop aims to engage participants who plan to attend the ASA meeting for two days of learning and exploration around ocean acoustics theory and practice 
 - **Who**: 
-    - Senior undergraduate students
-    - Graduate students in the first two years of PhD or masters program
-    - Researchers who need fundamental ocean acoustics knowledge
+  - Senior undergraduate students
+  - Graduate students in the first two years of PhD or masters program
+  - Researchers who need fundamental ocean acoustics knowledge
 - **Why**: The BOAT workshop is for you if you are interested in:
-    - Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
-    - Getting connected with a community of learners / researchers / educators in related fields
-- **Financial support**: We plan to provide partial travel support and two nights of lodging for students needing financial assistance to participate in the workshop. See [](new-orleands-logistics) for detail.
+  - Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
+  - Getting connected with a community of learners / researchers / educators in related fields
+- **Financial support**: 
+  - We plan to provide partial travel support and two nights of lodging for students needing financial assistance to participate in the workshop. See [](new-orleands-logistics) for detail.
 
 
 ## Application
