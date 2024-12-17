@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Hackweek Template
-author: eScience Institute, University of Washington
-logo: logo.png
+title: BOAT Program
+author: BOAT Team, University of Washington
+# logo: logo.png
 only_build_toc_files: true
 
 parse:

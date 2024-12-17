@@ -1,9 +1,10 @@
 # Welcome to {{hackweek}}!
 
-![banner](img/banner.png)
+<!--![banner](img/banner.png)-->
 
 
-📖 On this JupyterBook website you'll find [tutorials](tutorials/index). All tutorials are Jupyter Notebooks, designed to be run interactively, but also rendered on this website for convenience.
+<!--📖 On this JupyterBook website you'll find [tutorials](tutorials/index). All tutorials are Jupyter Notebooks, 
+designed to be run interactively, but also rendered on this website for convenience.-->
 
 <!-- 👩‍💻 During a Hackweek teams work collaboratively on different projects. Read more about the projects and results on our [projects page](projects/index) -->
 
