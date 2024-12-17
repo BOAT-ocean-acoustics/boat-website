@@ -3,7 +3,7 @@
 
 title: Hackweek Template
 author: eScience Institute, University of Washington
-logo: logo.png
+# logo: logo.png
 only_build_toc_files: true
 
 parse:
