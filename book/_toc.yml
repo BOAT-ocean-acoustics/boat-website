@@ -8,16 +8,16 @@ parts:
     - file: workshop_seattle
     - file: workshop_new_orleans
     - title: Schedule
-      url: https://boat-ocean-acoustics.github.io/boat-website/index.html?jump_to=schedule
+      url: https://boat-ocean-acoustics.github.io/index.html?jump_to=schedule
     - file: faq
     - title: Team
-      url: https://boat-ocean-acoustics.github.io/boat-website/index.html?jump_to=team
+      url: https://boat-ocean-acoustics.github.io/index.html?jump_to=team
     - file: CoC
 - caption: Preparation
   chapters:
     - file: preliminary/index
-    - file: preliminary/checklist
-    - file: preliminary/git
+    # - file: preliminary/checklist
+    # - file: preliminary/git
 - caption: Tutorials
   chapters:
     - file: tutorials/index
@@ -26,8 +26,8 @@ parts:
 # - caption: Projects
 #   chapters:
 #     - file: projects/index
-- caption: Reference
-  chapters:
-    - file: reference/glossary
-    - file: reference/bibliography
-    - file: reference/questions
+# - caption: Reference
+#   chapters:
+#     - file: reference/glossary
+#     - file: reference/bibliography
+#     - file: reference/questions
