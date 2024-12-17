@@ -9,7 +9,6 @@ The Bridge to Ocean Acoustics and Technology (BOAT) program aims to broaden acce
 ## Current status
 In this pilot stage, we are building foundational tutorials on core ocean acoustics concepts that can serve as "blueprints" for further developments on advanced topics and techniques. We will also host two education workshops to engage learners from diverse backgrounds to "open up the funnel" for student intake into ocean acoustics.
 
-
 ## The BOAT Philosophy
 
 We build open, executable tutorials to connect learners to ocean acoustics knowledge on modern computing infrastructure.
