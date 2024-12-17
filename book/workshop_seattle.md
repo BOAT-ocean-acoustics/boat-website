@@ -11,6 +11,7 @@
 - **Why**: The BOAT workshop is for you if you are interested in:
     - Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
     - Getting connected with a community of learners / researchers / educators in related fields
+- **Financial support**: We are not able to provide financial support due to funding constraints and the local nature of this workshop.
 
 
 
@@ -41,7 +42,7 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 Lodging will not be provided for BOAT Seattle workshop participants.
 
 
-### Communication
+<!-- ### Communication
 
 #### During workshop
 - We will use the BOAT Zulip workspace as the main channel of communication during the workshop. You should have received an invitation to join this workspace. If you haven’t seen it in your inbox, check your spam folder, or email us at {{ contact_email }}.
@@ -49,4 +50,4 @@ Lodging will not be provided for BOAT Seattle workshop participants.
 
 #### After workshop
 - We encourage everyone to continue interacting with each other and build our community together at the **DISCOURSE_FORUM**.
-- If you are interested in creating more BOAT tutorials and/or getting involved in organizing future BOAT workshops, don't hesitate to reach out to us at {{ contact_email }}!
+- If you are interested in creating more BOAT tutorials and/or getting involved in organizing future BOAT workshops, don't hesitate to reach out to us at {{ contact_email }}! -->
