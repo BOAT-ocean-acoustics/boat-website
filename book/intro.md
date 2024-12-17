@@ -1,5 +1,7 @@
 # Welcome to {{hackweek}}!
 
+![](./img/beampattern_demo.gif)
+
 The Bridge to Ocean Acoustics and Technology (BOAT) program aims to "open up the funnel" of student intake to ocean acoustics, and preserve the institutional knowledge in this field in an interactive, accessible, and attractive form. We focus on:
 1) Create open, executable, and web-hosted tutorials that encapsulate fundamental ocean acoustics knowledge and techniques as living documents, and
 2) Grow the ocean acoustics education and research community through education and collaborative resource deveopment workshops.
