@@ -11,7 +11,7 @@
 - **Why**: The BOAT workshop is for you if you are interested in:
     - Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
     - Getting connected with a community of learners / researchers / educators in related fields
-- **Financial support**: We plan to provide partial travel support and two nights of lodging for students needing financial assistance to participate in the workshop. See [](#logistics) for detail.
+- **Financial support**: We plan to provide partial travel support and two nights of lodging for students needing financial assistance to participate in the workshop. See [](new-orleands-logistics) for detail.
 
 
 ## Application
@@ -23,6 +23,7 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 
 
 
+(new-orleands-logistics)=
 ## Logistics
 
 <!-- ### Venue / timing
