@@ -7,7 +7,7 @@ We believe in learning by doing and sharing, and design the BOAT workshop to be 
 
 ## Computing environment
 
-All workshop tutorials and exercises will be in a browser-based [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/) computing environment via [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/latest/). We will provide a quick walk through in he beginning of the workshop to make sure everyone knows how to navigate this environment and look for help. If you are interested in trying this out beforehand, [follow this page to try Jupyter on your browser](https://docs.jupyter.org/en/latest/start/index.html).
+All workshop tutorials and exercises will be in a browser-based [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/) computing environment via [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/latest/). We will provide a quick walk through in he beginning of the workshop to make sure everyone knows how to navigate this environment and look for help. If you are interested in trying this out ahead of time, [follow this page to try Jupyter on your browser](https://docs.jupyter.org/en/latest/start/index.html).
 
 <!-- If you are interested in installing Jupyter on your own machine, checkout this page -->
 
