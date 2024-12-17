@@ -4,7 +4,7 @@ The Bridge to Ocean Acoustics and Technology (BOAT) program aims to "open up the
 1) Create open, executable, and web-hosted tutorials that encapsulate fundamental ocean acoustics knowledge and techniques as living documents, and
 2) Grow the ocean acoustics education and research community through education and collaborative resource deveopment workshops.
 
-In the current pilot stage, we are building materials that cover fundamental ocean acoustics concepts, and two ocean acoustics subfields--the scattering of seabed and the scattering of marine organisms in the water column--to establish a set of "blueprints" that can be leveraged by other researchers to develop more resources in the future.
+In the current pilot stage, we are building tutorials on fundamental ocean acoustics concepts that can serve as "blueprints" for further developments on more advanced topics.
 
 Our long-term goal is to build a strong learner-research-contributor community who jointly support this program to expand access to ocean acoustics theory and practice and to recruit the next generation of talent to this field.
 
