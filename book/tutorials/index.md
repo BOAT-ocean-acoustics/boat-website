@@ -11,7 +11,7 @@ Below you will find two tables linking all workshop tutorials. We will add tutor
 ## Acoustics
 | Session | Topics | Links |
 | ----- | --------- | ----- | 
-| Sources | <ul> <li>Natural and human-made sources</li> <li>Signal types</li> <li>Sound pressure level</li> <li>Transmission beam pattern</li> </ul> | Coming soon! |
+| Sources | <p><ul> <li>Natural and human-made sources</li> <li>Signal types</li> <li>Sound pressure level</li> <li>Transmission beam pattern</li> </ul> </p> | Coming soon! |
 | Receivers | <ul> <li>Sensitivity</li> <li>Receiving beam pattern</li> <li> Sources contributing to soundscape </li> </ul> | Coming soon! |
 | Propagation| <ul> <li>Free space propagation</li> <li>Impacts of the medium: sound speed, attenuation</li> <li>Reflection and transmission</li> <li>Ocean propagation</li> </ul> | Coming soon! |
 | Scattering | <ul> <li>Scattering cross section, target strength</li> <li>Discrete scatterers</li> <li>Surface scattering</li> <li>Volume scattering</li> </ul> | Coming soon! |
