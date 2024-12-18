@@ -1,9 +1,6 @@
 # Welcome to {{hackweek}}!
 
-## Goals
-The Bridge to Ocean Acoustics and Technology (BOAT) program aims to broaden access to ocean acoustics by empowering learners to explore and advance the field through collaboration and shared knowledge.
-
-## Our focus
+The Bridge to Ocean Acoustics and Technology (BOAT) program aims to broaden access to ocean acoustics by empowering learners to explore and advance the field through collaboration and shared knowledge. We focus on:
 1) Developing open, executable, and web-hosted tutorials that encapsulate fundamental ocean acoustics knowledge and techniques as living documents.
 2) Growing the ocean acoustics education and research community through interactive and collaborative workshops.
 
@@ -13,7 +10,7 @@ The Bridge to Ocean Acoustics and Technology (BOAT) program aims to broaden acce
 ## The BOAT philosophy
 We emphasize the development of physical and mathematical intuitions through hands-on computational examples, and will use interactive "widgets" in executable tutorials to inspire and motivate learners to dive deeper into specific topics of their choice.
 
-Below is an example widget in Python that demonstrates how the beampattern of a circular piston transducer changes with sound frequency and aperture radius.
+Below is an example "widget" in Python that demonstrates how the beampattern of a circular piston transducer changes with sound frequency and aperture radius.
 
 ![](./img/beampattern_demo.gif)
 
