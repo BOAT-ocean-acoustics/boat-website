@@ -1,3 +1,4 @@
+(what-to-expect)=
 # What to Expect 
 
 ## Workshop format
@@ -14,10 +15,15 @@ All workshop tutorials and exercises will be in a browser-based [JupyterLab](htt
 
 ## Programming experience
 
-All executable workshop materials will be written in Python. Therefore, we expect participants to have some experience with scripting programming languages, such as Python, Matlab, and R. If you are not familiar with Python, check out the Software Carpentry [core lessons](https://software-carpentry.org/lessons/#core-lessons-in-english): 
+All executable workshop materials will be written in Python. Therefore, we expect participants to have some experience with scripting programming languages, such as Python, Matlab, and R. If you are not familiar with Python, complete the Software Carpentry [core lessons](https://software-carpentry.org/lessons/#core-lessons-in-english) prior to the workshop, including:
 - [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
 - [Plotting and programming with Python](https://swcarpentry.github.io/python-novice-gapminder/)
 
 The focus of the workshop will be on ocean acoustics, and the goal of the executable tutorials is to ensure theoretical concepts are introduced alongside hands-on implementations for participants to develop physical intuitions behind the equations. 
 
-Due to the short timespan of the workshop,  If you are interested in learning more useful Python packages, checkout Project Pythia [Foundations](https://foundations.projectpythia.org/landing-page.html).
+Advanced Python skills are not required for the workshop, but if you are interested in learning more useful Python packages, check out the Project Pythia [Foundations](https://foundations.projectpythia.org/landing-page.html).
+
+
+## Other questions
+
+Check out our [FAQs](#faq) for other questions you may have!

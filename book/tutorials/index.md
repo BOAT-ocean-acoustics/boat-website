@@ -1,4 +1,5 @@
-# Tutorials
+(tutorial-topics)=
+# Tutorial Topics
 
 During the BOAT workshop, we will focus on developing physical intuitions behind the equations for key ocean acoustics concepts. We aim for providing an on-ramp for participants to be able to think about ocean acoustics problems in a holistic manner. Therefore, workshop tutorials are designed to be interactive and provide materials at a conceptual level with ample hands-on exercises. Participants will also work with real-world ocean acoustics data in small groups.
 
@@ -8,7 +9,7 @@ Below you will find two tables linking all workshop tutorials. We will add tutor
 
 
 ## Acoustics
-| Session | Topics | Tutorials, recording, extended readings |
+| Session | Topics | Links |
 | ----- | --------- | ----- | 
 | Sources | <ul> <li>Natural and human-made sources</li> <li>Signal types</li> <li>Sound pressure level</li> <li>Transmission beam pattern</li> </ul> | Coming soon! |
 | Receivers | <ul> <li>Sensitivity</li> <li>Receiving beam pattern</li> <li> Sources contributing to soundscape </li> </ul> | Coming soon! |
