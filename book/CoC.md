@@ -31,7 +31,8 @@ Harassment includes, but is not limited to:
 
 Participants asked to stop any harassing behavior are expected to comply immediately. This applies to any eScience events or activities, either online or in-person. Participants violating these rules may be sanctioned or expelled from participation at the discretion of eScience staff. The organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. 
 
-Harassment and other code of conduct violations reduce the value of our programming for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. You can make a report either personally or anonymously. To personally report, contact one of the BOAT organizers. Anonymous reports can be made [here](). 
+Harassment and other code of conduct violations reduce the value of our programming for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. You can 
+make a report either personally or anonymously. To personally report, contact one of the BOAT organizers. Anonymous reports can be made here. 
 
 For UW events, if you are experiencing a problem or issue that needs to be addressed by someone outside the program, you may contact the UW Office of the Ombud at ombuds@uw.edu or 206-543-6028.
 
