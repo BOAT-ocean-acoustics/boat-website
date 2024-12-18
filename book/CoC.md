@@ -1,7 +1,6 @@
 # Participant Conduct
 
-We require all BOAT participants to comply with the BOAT Code of Conduct (adopted from the eScience Institute, University of Washington [Code of Conduct] 
-(https://escience.washington.edu/about/code-of-conduct/)) copied below. 
+We require all BOAT participants to comply with the BOAT Code of Conduct (adopted from the eScience Institute, University of Washington [Code of Conduct](https://escience.washington.edu/about/code-of-conduct/)) copied below. 
 
 BOAT participants are intentionally diverse across many categories including academic standing, domain field, technical experience, etc., and we expect everyone to respect all perspectives represented.
 
