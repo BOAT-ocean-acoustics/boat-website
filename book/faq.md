@@ -1,7 +1,5 @@
+(faq)=
 # FAQs
-
-##### Q: Do I need to know Python in order to participate?
-A: Since the notebooks and exercises are in Python, some basic Python knowledge will be valuable for productive participation in the workshop. If you are not familiar with Python but have experience with another scripting language such as R or MATLAB, and you are willing to complete the introductory [Programming with Python lesson](https://swcarpentry.github.io/python-novice-inflammation/) on your own, indicate this in your application.
 
 ##### Q: I do not have experience with acoustics but I find the topic interesting. Can I join?
 A: The workshop does not require a background in acoustics, but we think it is most appropriate for students who are:
@@ -11,6 +9,9 @@ A: The workshop does not require a background in acoustics, but we think it is m
 
 ##### Q: I know a lot about ocean acoustics applications but I am worried I do not have the right mathematics background for this course? What exactly are the prerequisites?
 A: There are no major mathematical prerequisites to the tutorials. We aim to help participants develop intuitions on key ocean acoustics concepts, and will not derive detailed mathematical equations during the workshop. We do expect participants to read mathematical expressions (but not subjects such as differential equations and linear algebra). The workshop tutorials will include primers on signal processing and statistics.
+
+##### Q: Do I need to know Python in order to participate?
+A: Since the notebooks and exercises are in Python, some basic Python knowledge will be valuable for productive participation in the workshop. If you are not familiar with Python but have experience with another scripting language such as R or MATLAB, and you are willing to complete the introductory [Programming with Python lesson](https://swcarpentry.github.io/python-novice-inflammation/) on your own, indicate this in your application. See [](#what-to-expect) for more information.
 
 ##### Q: I have some training in the fundamentals of ocean acoustics. I am interested in learning more in-depth about topic X.  Will it be covered?
 A: You can look through the [draft schedule](https://boat-ocean-acoustics.github.io/boat-website/index.html?jump_to=schedule) to get a sense of the topics covered. We plan to teach the content at an introductory level during the workshop, but also plan to develop BOAT tutorials on advanced topics. Please reach out to us at {{ contact_email }} if you are interested in getting involved!

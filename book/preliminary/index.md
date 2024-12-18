@@ -1,3 +1,4 @@
+(what-to-expect)=
 # What to Expect 
 
 ## Workshop format
@@ -25,4 +26,4 @@ Advanced Python skills are not required for the workshop, but if you are interes
 
 ## Other questions
 
-Check out our [FAQ](../faq) for other questions you may have!
+Check out our [FAQ](#faq) for other questions you may have!
