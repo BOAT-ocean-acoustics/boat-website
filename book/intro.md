@@ -24,6 +24,6 @@ Looking ahead, we envision maintaining a collection of tutorial modules backed b
 :class: seealso
 * [Seattle workshop](./workshop_seattle) (March 24-25, 2025)
 * [New Orleands workshop](./workshop_new_orleans) (May 17-18, 2025)
-* Check out [](#tutorial-topics) we will cover in the 2 upcoming workshops!
+* Check out the [topics](#tutorial-topics) we will cover in these workshops!
 ```
 <!-- * GitHub organization: {{ github_org_url }} -->
