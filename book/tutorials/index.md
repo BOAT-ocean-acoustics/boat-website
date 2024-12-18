@@ -1,3 +1,4 @@
+(tutorial-topics)=
 # Tutorial Topics
 
 During the BOAT workshop, we will focus on developing physical intuitions behind the equations for key ocean acoustics concepts. We aim for providing an on-ramp for participants to be able to think about ocean acoustics problems in a holistic manner. Therefore, workshop tutorials are designed to be interactive and provide materials at a conceptual level with ample hands-on exercises. Participants will also work with real-world ocean acoustics data in small groups.
