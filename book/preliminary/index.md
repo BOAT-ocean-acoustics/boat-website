@@ -20,4 +20,4 @@ All executable workshop materials will be written in Python. Therefore, we expec
 
 The focus of the workshop will be on ocean acoustics, and the goal of the executable tutorials is to ensure theoretical concepts are introduced alongside hands-on implementations for participants to develop physical intuitions behind the equations. 
 
-Due to the short timespan of the workshop,  If you are interested in learning more useful Python packages, checkout Project Pythia [Foundations](https://foundations.projectpythia.org/landing-page.html).
+Advanced Python skills are not required for the workshop, but if you are interested in learning more useful Python packages, check out the Project Pythia [Foundations](https://foundations.projectpythia.org/landing-page.html).
