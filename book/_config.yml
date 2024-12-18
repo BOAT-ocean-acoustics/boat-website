@@ -61,7 +61,7 @@ repository:
 bibtex_bibfiles:
   - references.bib
 sphinx:
-  # recursive_update: true
+  recursive_update: true  # needed to default to light mode
   config:
     bibtex_reference_style: author_year  # or label, super, \supercite
     nb_merge_streams: true # stdout lines combined in output
@@ -70,14 +70,14 @@ sphinx:
             - jupytext.reads
             - fmt: py:percent
     suppress_warnings: [myst.header]
-    # Fix to light mode
-    html_theme_options:
-      toggle_switch: false
-      default: light
     # Default to light mode
     # See: https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/light-dark.html#configure-default-theme-mode
-    # html_context:
-    #   default_mode: light
+    html_context:
+      default_mode: light
+    html_theme_options:
+      navbar_end: ["navbar-icon-links"]
+
+
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
