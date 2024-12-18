@@ -13,7 +13,8 @@
   - Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
   - Getting connected with a community of learners / researchers / educators in related fields
 - **Financial support**: 
-  - We plan to provide partial travel support and two nights of lodging for students needing financial assistance to participate in the workshop. See [](new-orleands-logistics) for detail.
+  - Students can apply for financial assistance (partial travel support and two nights lodging) to participate in the 
+workshop. See [](new-orleands-logistics) for detail.
 
 
 ## Application
@@ -38,7 +39,8 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 * Dinner will be provided for the first day of the workshop.
 
 ### Lodging
-* We plan provide 2 nights of lodging (nights of May 16-17) for students who need financial assistance to attend the BOAT program.
+* Students can apply for financial assistance (partial travel support and lodging for May 16-17) to participate in the 
+workshop.
 * Details about lodging will be provided soon.
 <!-- * Dorms are all single/double rooms and each contain a private bathroom.
 * Participants who opt to will be staying at Willow Hall. Please Check in after
