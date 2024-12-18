@@ -22,7 +22,10 @@ A: You are welcome to apply and we will accommodate you subject to event capacit
 ##### Q: I am from Seattle, but I am not available during the Seattle event. Can I apply for the New Orleans event?
 A: Yes, you are welcome to apply, but we plan to prioritize participation from outside of Seattle area for the New Orleans workshop.
 
-##### Q: I am a student outside of the U.S., and I am planning to attend the ASA conference. Can I apply? Am I eligible for travel support?
+##### Q: I am interested in the New Orleans workshop, do I have to go to the ASA meeting to join the BOAT workshop?
+A: No, the New Orleans workshop is independent of the ASA meeting, and you are welcome to apply to join the workshop.
+
+##### Q: I am a student outside of the US and I am planning to attend the ASA conference. Can I apply? Am I eligible for travel support?
 A: Yes, you are welcome to apply to join the workshop. We are not able to support travel from outside of the U.S., or support students studying in institutions outside of the U.S.
 
 ##### Q: I work in an ocean acoustics / engineering / robotics / consulting company. Can I apply?
