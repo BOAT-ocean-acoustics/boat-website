@@ -14,7 +14,7 @@ A: There are no major mathematical prerequisites to the tutorials. We aim to hel
 A: Since the notebooks and exercises are in Python, some basic Python knowledge will be valuable for productive participation in the workshop. If you are not familiar with Python but have experience with another scripting language such as R or MATLAB, and you are willing to complete the introductory [Programming with Python lesson](https://swcarpentry.github.io/python-novice-inflammation/) on your own, indicate this in your application. See [](#what-to-expect) for more information.
 
 ##### Q: I have some training in the fundamentals of ocean acoustics. I am interested in learning more in-depth about topic X.  Will it be covered?
-A: You can look through the [draft schedule](https://boat-ocean-acoustics.github.io/boat-website/index.html?jump_to=schedule) to get a sense of the topics covered. We plan to teach the content at an introductory level during the workshop, but also plan to develop BOAT tutorials on advanced topics. Please reach out to us at {{ contact_email }} if you are interested in getting involved!
+A: You can look through the [draft schedule](https://boat-ocean-acoustics.github.io/index.html?jump_to=schedule) to get a sense of the topics covered. We plan to teach the content at an introductory level during the workshop, but also plan to develop BOAT tutorials on advanced topics. Please reach out to us at {{ contact_email }} if you are interested in getting involved!
 
 ##### Q: I am not a student, I am a postdoc/research scientist who works in this domain, but I never had an ocean acoustics course. Can I apply?
 A: You are welcome to apply and we will accommodate you subject to event capacity constraints. We are not able to provide funding for your travel.
