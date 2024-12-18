@@ -29,12 +29,12 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 ## Logistics
 
 ### Venue / timing
-* The workshop will take place in person in the eSciene Institute on the 6th floor of the [UW Physics/Astronomy tower](https://maps.app.goo.gl/JCAcALiXpbwDh1856).
-* Door is open at 8:00 am each morning, and we will start the morning sessions at 8:30 am sharp.
+* The workshop will take place in person in the eScience Institute on the 6th floor of the [UW Physics/Astronomy tower](https://maps.app.goo.gl/JCAcALiXpbwDh1856).
+* Doors open at 8:00 am each morning, and we will start the morning sessions at 8:30 am sharp.
 * Due to space limitations, only registered BOAT participants can attend the workshop.
 
 ### Meals
-* Coffee, lunch and, snacks will be provided each day at the BOAT workshop.
+* Coffee, lunch, and snacks will be provided each day at the BOAT workshop.
 * Dinner will be provided for the first day of the workshop.
 
 ### Transportation
