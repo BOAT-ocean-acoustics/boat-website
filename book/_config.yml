@@ -61,6 +61,7 @@ repository:
 bibtex_bibfiles:
   - references.bib
 sphinx:
+  # recursive_update: true
   config:
     bibtex_reference_style: author_year  # or label, super, \supercite
     nb_merge_streams: true # stdout lines combined in output
@@ -69,8 +70,9 @@ sphinx:
             - jupytext.reads
             - fmt: py:percent
     suppress_warnings: [myst.header]
-  html_context:
-    default_mode: light
+    # Default to light mode
+    html_context:
+      default_mode: light
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
