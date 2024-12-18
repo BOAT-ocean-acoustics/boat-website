@@ -69,6 +69,8 @@ sphinx:
             - jupytext.reads
             - fmt: py:percent
     suppress_warnings: [myst.header]
+  html_context:
+    default_mode: light
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
