@@ -9,7 +9,7 @@ Below you will find two tables linking all workshop tutorials. We will add tutor
 
 
 ## Acoustics
-| Session | Topics | Tutorials, recording, extended readings |
+| Session | Topics | Links |
 | ----- | --------- | ----- | 
 | Sources | <ul> <li>Natural and human-made sources</li> <li>Signal types</li> <li>Sound pressure level</li> <li>Transmission beam pattern</li> </ul> | Coming soon! |
 | Receivers | <ul> <li>Sensitivity</li> <li>Receiving beam pattern</li> <li> Sources contributing to soundscape </li> </ul> | Coming soon! |
