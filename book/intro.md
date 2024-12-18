@@ -8,7 +8,8 @@ The Bridge to Ocean Acoustics and Technology (BOAT) program aims to broaden acce
 
 
 ## The BOAT philosophy
-We emphasize the development of physical and mathematical intuitions through hands-on computational examples, and will use interactive "widgets" in executable tutorials to inspire and motivate learners to dive deeper into specific topics of their choice.
+
+In BOAT, we **emphasize the development of physical and mathematical intuitions behind equations through hands-on computational examples**, and use interactive "widgets" in executable tutorials to inspire and motivate learners to dive deeper into specific topics of their choice.
 
 Below is an example "widget" in Python that demonstrates how the beampattern of a circular piston transducer changes with sound frequency and aperture radius.
 
