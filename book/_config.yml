@@ -77,3 +77,10 @@ html:
   use_issues_button: true
   use_repository_button: true
   # google_analytics_id: G-XXXXXXXXX
+
+# Set to light mode and not allow toggle
+html_theme: pydata_sphinx_theme
+html_theme_options:
+  theme_toggle:
+    default: light
+    toggle_switch: false
