@@ -75,7 +75,7 @@ sphinx:
     html_context:
       default_mode: light
     html_theme_options:
-      navbar_end: ["navbar-icon-links"]
+      navbar_end: [navbar-icon-links]  # somehow this does not work
 
 
 
