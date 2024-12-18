@@ -72,8 +72,10 @@ sphinx:
     suppress_warnings: [myst.header]
     # Fix to light mode
     html_theme_options:
-      theme: "light" 
+      toggle_switch: false
+      default: light
     # Default to light mode
+    # See: https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/light-dark.html#configure-default-theme-mode
     # html_context:
     #   default_mode: light
 
