@@ -17,9 +17,9 @@ A: Since the notebooks and exercises are in Python, some basic Python knowledge 
 A: You can look through the [draft schedule](https://boat-ocean-acoustics.github.io/index.html?jump_to=schedule) to get a sense of the topics covered. We plan to teach the content at an introductory level during the workshop, but also plan to develop BOAT tutorials on advanced topics. Please reach out to us at {{ contact_email }} if you are interested in getting involved!
 
 ##### Q: I am not a student, I am a postdoc/research scientist who works in this domain, but I never had an ocean acoustics course. Can I apply?
-A: You are welcome to apply and we will accommodate you subject to event capacity constraints. We are not able to provide funding for your travel.
+A: You are welcome to apply and we will accommodate you subject to capacity constraints. We are not able to provide funding for your travel.
 
-##### Q: I am from Seattle, but I am not available during the Seattle event. Can I apply for the New Orleans event?
+##### Q: I am from Seattle, but I am not available during the Seattle workshop. Can I apply for the New Orleans workshop?
 A: Yes, you are welcome to apply, but we plan to prioritize participation from outside of Seattle area for the New Orleans workshop.
 
 ##### Q: I am interested in the New Orleans workshop, do I have to go to the ASA meeting to join the BOAT workshop?
