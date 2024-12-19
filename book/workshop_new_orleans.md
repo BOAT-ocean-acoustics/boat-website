@@ -1,10 +1,10 @@
 # New Orleans Workshop
 
 ## Quick facts
-- **When**: May 17-18, 2025 (immediately before the [2025 spring meeting of the Acoustical Society of America](https://acousticalsociety.org/new-orleans-2025/))
+- **When**: May 17-18, 2025 (immediately before the [joint meeting of the Acoustical Society of America and the International Congress on Acoustics](https://acousticalsociety.org/new-orleans-2025/))
 - **Where**: TBD, will be in New Orleans, LA
 - **What**: 
-  - The BOAT New Orleans workshop aims to engage participants who plan to attend the ASA meeting for two days of learning and exploration around ocean acoustics theory and practice 
+  - The BOAT New Orleans workshop aims to engage participants nationwide for two days of learning and exploration around ocean acoustics theory and practice. Attending the ASA/ICA meeting is not required for participating in the BOAT workshop.
 - **Who**: 
   - Senior undergraduate students
   - Graduate students in the first two years of PhD or masters program
@@ -14,11 +14,11 @@
   - Getting connected with a community of learners / researchers / educators in related fields
 - **Financial support**: 
   - Students can apply for financial assistance (partial travel support and two nights lodging) to participate in the 
-workshop. See [](new-orleands-logistics) for detail.
+workshop. See [](new-orleans-logistics) for detail.
 
 
 ## Application
-The application for the BOAT Seattle workshop will open in January 2025.
+The application for the BOAT New Orleans workshop will open in January 2025.
 
 [**Sign up here to get notified!**](https://docs.google.com/forms/d/e/1FAIpQLScootOMq09YtlLCDkizWPF9J_lQ9VF-noCFxnTMW6HfStSkwA/viewform)
 
@@ -26,7 +26,7 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 
 
 
-(new-orleands-logistics)=
+(new-orleans-logistics)=
 ## Logistics
 
 <!-- ### Venue / timing
