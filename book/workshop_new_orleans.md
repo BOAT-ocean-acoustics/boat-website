@@ -4,7 +4,7 @@
 - **When**: May 17-18, 2025 (immediately before the [joint meeting of the Acoustical Society of America and the International Congress on Acoustics](https://acousticalsociety.org/new-orleans-2025/))
 - **Where**: TBD, will be in New Orleans, LA
 - **What**: 
-  - The BOAT New Orleans workshop aims to engage participants nationwide for two days of learning and exploration around ocean acoustics theory and practice. Attending the ASA/ICA meeting is not a required to participate in the BOAT workshop.
+  - The BOAT New Orleans workshop aims to engage participants nationwide for two days of learning and exploration around ocean acoustics theory and practice. Attending the ASA/ICA meeting is not required for participating in the BOAT workshop.
 - **Who**: 
   - Senior undergraduate students
   - Graduate students in the first two years of PhD or masters program
